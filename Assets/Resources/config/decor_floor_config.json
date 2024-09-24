@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 0,
+        "Name": "Floor 01",
+        "Shape": 0,
+        "Texture": "floor_01",
+        "Color": "#ffca7f",
+        "Price": 0
+    },
+    {
+        "Code": 1,
+        "Name": "Floor 02",
+        "Shape": 0,
+        "Texture": "floor_02",
+        "Color": "#756bbd",
+        "Price": 250
+    },
+    {
+        "Code": 2,
+        "Name": "Floor 03",
+        "Shape": 0,
+        "Texture": "floor_03",
+        "Color": "#646464",
+        "Price": 250
+    },
+    {
+        "Code": 3,
+        "Name": "Floor 04",
+        "Shape": 0,
+        "Texture": "floor_04",
+        "Color": "#756bbd",
+        "Price": 250
+    },
+    {
+        "Code": 4,
+        "Name": "Floor 05",
+        "Shape": 0,
+        "Texture": "floor_05",
+        "Color": "#646464",
+        "Price": 250
+    },
+    {
+        "Code": 5,
+        "Name": "Floor 06",
+        "Shape": 0,
+        "Texture": "floor_06",
+        "Color": "#756bbd",
+        "Price": 250
+    }
+]

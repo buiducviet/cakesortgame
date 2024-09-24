@@ -1,0 +1,92 @@
+[
+    {
+        "data_type": "bonus_level_config",
+        "version": "1.0.0",
+        "file_name": "bonus_level_config"
+    },
+    {
+        "data_type": "cake_upscore_config",
+        "version": "1.0.0",
+        "file_name": "cake_upscore_config"
+    },
+    {
+        "data_type": "daily_gift_config",
+        "version": "1.0.0",
+        "file_name": "daily_gift_config"
+    },
+    {
+        "data_type": "decor_effect_config",
+        "version": "1.0.0",
+        "file_name": "decor_effect_config"
+    },
+    {
+        "data_type": "decor_floor_config",
+        "version": "1.0.0",
+        "file_name": "decor_floor_config"
+    },
+    {
+        "data_type": "decor_plate_config",
+        "version": "1.0.0",
+        "file_name": "decor_plate_config"
+    },
+    {
+        "data_type": "decor_table_config",
+        "version": "1.0.0",
+        "file_name": "decor_table_config"
+    },
+    {
+        "data_type": "halloween_level_config",
+        "version": "1.0.0",
+        "file_name": "halloween_level_config"
+    },
+    {
+        "data_type": "halloween_pack_config",
+        "version": "1.0.0",
+        "file_name": "halloween_pack_config"
+    },
+    {
+        "data_type": "iap_coin_pack_config",
+        "version": "1.0.0",
+        "file_name": "iap_coin_pack_config"
+    },
+    {
+        "data_type": "iap_shop_pack_config",
+        "version": "1.0.0",
+        "file_name": "iap_shop_pack_config"
+    },
+    {
+        "data_type": "iap_streak_pack_config",
+        "version": "1.0.0",
+        "file_name": "iap_streak_pack_config"
+    },
+    {
+        "data_type": "item_random_config",
+        "version": "1.0.0",
+        "file_name": "item_random_config"
+    },
+    {
+        "data_type": "language_config",
+        "version": "1.0.0",
+        "file_name": "language_config"
+    },
+    {
+        "data_type": "minigame_level_config",
+        "version": "1.0.0",
+        "file_name": "minigame_level_config"
+    },
+    {
+        "data_type": "minigame_pack_cake_config",
+        "version": "1.0.0",
+        "file_name": "minigame_pack_cake_config"
+    },
+    {
+        "data_type": "player_level_config",
+        "version": "1.0.0",
+        "file_name": "player_level_config"
+    },
+    {
+        "data_type": "reward_streak_config",
+        "version": "1.0.0",
+        "file_name": "reward_streak_config"
+    },   
+]

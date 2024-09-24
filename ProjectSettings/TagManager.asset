@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - row
+  - Canvas Popup 3
+  - Canvas FX
+  - Canvas Popup 2
+  - CanvasTopUI
+  - Canvas Popup 4
+  - Canvas Popup
+  - Canvas Ticket Break
+  - Canvas Popup 5
+  - CanvasPurchaseSuccess
+  - CakePiece
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1008522275
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2229483519
+    locked: 0
+  - name: coin
+    uniqueID: 1812435927
+    locked: 0

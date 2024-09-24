@@ -1,0 +1,51 @@
+[
+    {
+        "Name": "GoldPack1",
+        "Item": "Gold",
+        "ItemID": 0,
+        "Qty": 1000
+    },
+    {
+        "Name": "GoldPack2",
+        "Item": "Gold",
+        "ItemID": 0,
+        "Qty": 3500
+    },
+    {
+        "Name": "GoldPack3",
+        "Item": "Gold",
+        "ItemID": 0,
+        "Qty": 7000
+    },
+    {
+        "Name": "GoldPack4",
+        "Item": "Gold",
+        "ItemID": 0,
+        "Qty": 16000
+    },
+    {
+        "Name": "GoldPack5",
+        "Item": "Gold",
+        "ItemID": 0,
+        "Qty": 34000
+    },
+    {
+        "Name": "GoldPack6",
+        "Item": "Gold",
+        "ItemID": 0,
+        "Qty": 90000
+    }
+ ,
+ {
+   "Name": "Free (video)",
+   "Item": "Gold",
+   "ItemID": 0,
+   "Qty": 80
+ },
+ {
+   "Name": "Free (daily)",
+   "Item": "Gold",
+   "ItemID": 0,
+   "Qty": 60
+ }
+]

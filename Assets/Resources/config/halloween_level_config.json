@@ -1,0 +1,6027 @@
+[
+    {
+        "level": 1,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 300,
+        "cakerange": 2,
+        "coin": 40,
+        "cakePiece": 70,
+        "collection": [
+            208,
+            210,
+            201,
+            212,
+            203,
+            209
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 2,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 300,
+        "cakerange": 3,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            201,
+            212,
+            202,
+            203,
+            206,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 3,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            -1,
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            -1,
+            11
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 2,
+        "coin": 40,
+        "cakePiece": 60,
+        "collection": [
+            201,
+            208,
+            207,
+            206,
+            209,
+            210
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 4,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            11,
+            11,
+            -1,
+            11,
+            11,
+            11,
+            11
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 40,
+        "cakePiece": 60,
+        "collection": [
+            210,
+            203,
+            202,
+            209,
+            204,
+            201
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 5,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            11
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 450,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 60,
+        "collection": [
+            212,
+            205,
+            211,
+            206,
+            201,
+            209
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 200
+            },
+            {
+                "ItemID": 2,
+                "Qty": 2
+            },
+            {
+                "ItemID": 3,
+                "Qty": 2
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 6,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 450,
+        "cakerange": 3,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            201,
+            212,
+            202,
+            207,
+            209,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 7,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 450,
+        "cakerange": 3,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            205,
+            209,
+            208,
+            204,
+            211,
+            212
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 8,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            11
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            207,
+            201,
+            206,
+            211,
+            203,
+            208
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 9,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            11
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 65,
+        "collection": [
+            208,
+            207,
+            212,
+            210,
+            201,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 10,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            202,
+            210,
+            203,
+            205,
+            204,
+            207
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 201
+            },
+            {
+                "ItemID": 2,
+                "Qty": 2
+            },
+            {
+                "ItemID": 3,
+                "Qty": 2
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 11,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            212,
+            209,
+            210,
+            206,
+            205,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 12,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                2,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                -1,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            13
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            207,
+            206,
+            203,
+            204,
+            205,
+            209
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 13,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                2,
+                -1,
+                -1,
+                -1
+            ],
+            [
+                3,
+                3,
+                3,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            13,
+            13,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 450,
+        "cakerange": 5,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            204,
+            201,
+            203,
+            212,
+            208,
+            210
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 14,
+        "mapType": 1,
+        "cakes": [
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            [
+                3,
+                3,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            [
+                1,
+                2,
+                3,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            13,
+            11,
+            13,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            202,
+            201,
+            211,
+            206,
+            208,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 15,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                0,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                3,
+                -1,
+                -1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            13,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            13,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 450,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            208,
+            212,
+            204,
+            211,
+            210,
+            201
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 200
+            },
+            {
+                "ItemID": 2,
+                "Qty": 3
+            },
+            {
+                "ItemID": 3,
+                "Qty": 2
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 16,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            -1,
+            13,
+            11,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 3,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            202,
+            208,
+            206,
+            201,
+            211,
+            204
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 17,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                0,
+                1,
+                2,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                3,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                0,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 60,
+        "collection": [
+            203,
+            204,
+            208,
+            210,
+            212,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 18,
+        "mapType": 1,
+        "cakes": [
+            [
+                3,
+                3,
+                3,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                1,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            13,
+            11,
+            13,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            211,
+            208,
+            203,
+            205,
+            204,
+            209
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 19,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            [
+                2,
+                2,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                3,
+                3,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            11,
+            13,
+            11,
+            11,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            209,
+            210,
+            205,
+            201,
+            212,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 20,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                3,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                1,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            11,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 550,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            211,
+            205,
+            209,
+            210,
+            212,
+            207
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 202
+            },
+            {
+                "ItemID": 2,
+                "Qty": 3
+            },
+            {
+                "ItemID": 3,
+                "Qty": 3
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 21,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            204,
+            207,
+            203,
+            201,
+            210,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 22,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            [
+                2,
+                2,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            [
+                4,
+                4,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            [
+                2,
+                2,
+                4,
+                4,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 60,
+        "collection": [
+            210,
+            212,
+            207,
+            201,
+            208,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 23,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            12,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            12,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            202,
+            212,
+            208,
+            203,
+            211,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 24,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            12,
+            -1,
+            12,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 60,
+        "collection": [
+            203,
+            209,
+            202,
+            212,
+            211,
+            210
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 25,
+        "mapType": 1,
+        "cakes": [
+            [
+                0,
+                0,
+                4,
+                4,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                3,
+                3,
+                3,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                1,
+                4,
+                4,
+                -1
+            ],
+            null,
+            [
+                4,
+                4,
+                4,
+                0,
+                -1
+            ],
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                -1
+            ],
+            null,
+            [
+                3,
+                3,
+                3,
+                1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            12,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 40,
+        "collection": [
+            210,
+            206,
+            209,
+            203,
+            202,
+            205
+        ],
+        "ListItem": [
+            {
+                "ItemID": 2,
+                "Qty": 4
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 26,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            211,
+            202,
+            206,
+            210,
+            201,
+            208
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 27,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                2,
+                2,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            [
+                4,
+                4,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            12,
+            13,
+            13,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 40,
+        "cakePiece": 55,
+        "collection": [
+            206,
+            209,
+            202,
+            210,
+            208,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 28,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            11,
+            11,
+            12,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 45,
+        "collection": [
+            211,
+            204,
+            210,
+            212,
+            208,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 29,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            11,
+            -1,
+            12
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 40,
+        "cakePiece": 50,
+        "collection": [
+            209,
+            211,
+            201,
+            207,
+            205,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 30,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                2,
+                2,
+                2,
+                3,
+                3,
+                -1
+            ],
+            [
+                3,
+                3,
+                3,
+                4,
+                4,
+                -1
+            ],
+            [
+                4,
+                4,
+                4,
+                0,
+                0,
+                -1
+            ],
+            [
+                0,
+                0,
+                0,
+                1,
+                1,
+                -1
+            ],
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            13,
+            13,
+            13,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            12
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            204,
+            201,
+            206,
+            208,
+            212,
+            202
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 204
+            },
+            {
+                "ItemID": 2,
+                "Qty": 4
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 31,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            [
+                4,
+                4,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            [
+                4,
+                4,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            12,
+            -1,
+            11,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 55,
+        "collection": [
+            202,
+            208,
+            212,
+            206,
+            207,
+            210
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 32,
+        "mapType": 1,
+        "cakes": [
+            [
+                0,
+                0,
+                3,
+                3,
+                1,
+                -1
+            ],
+            [
+                1,
+                1,
+                2,
+                2,
+                3,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                2,
+                3,
+                0,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                1,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                0,
+                1,
+                -1
+            ],
+            [
+                1,
+                1,
+                1,
+                2,
+                3,
+                -1
+            ]
+        ],
+        "obstacles": [
+            13,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            -1
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            206,
+            210,
+            204,
+            212,
+            205,
+            201
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 33,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                0,
+                0,
+                0,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                2,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            [
+                -1,
+                0,
+                1,
+                1,
+                1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            13,
+            11,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            204,
+            212,
+            208,
+            207,
+            203,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 34,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            12,
+            13,
+            12,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            203,
+            204,
+            208,
+            211,
+            212,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 35,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            -1,
+            12,
+            11,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 50,
+        "collection": [
+            205,
+            201,
+            210,
+            206,
+            209,
+            211
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 200
+            },
+            {
+                "ItemID": 2,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 36,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                2,
+                2,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                3,
+                1,
+                1,
+                -1,
+                -1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            13,
+            11
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            208,
+            203,
+            209,
+            206,
+            201,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 37,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                1,
+                2,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            12,
+            -1,
+            -1,
+            12,
+            12,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            13
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            203,
+            204,
+            206,
+            207,
+            205,
+            208
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 38,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                2,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                3,
+                2,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            -1,
+            13,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            206,
+            210,
+            212,
+            202,
+            208,
+            204
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 39,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                2,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                3,
+                2,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            -1,
+            13,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            210,
+            204,
+            209,
+            212,
+            203,
+            201
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 40,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                1,
+                1,
+                -1
+            ],
+            null,
+            [
+                0,
+                0,
+                2,
+                2,
+                1,
+                -1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1,
+                -1
+            ],
+            null,
+            null,
+            [
+                3,
+                3,
+                1,
+                1,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            11,
+            -1,
+            -1,
+            13,
+            -1,
+            12,
+            11,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 50,
+        "collection": [
+            212,
+            208,
+            204,
+            202,
+            201,
+            205
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 209
+            },
+            {
+                "ItemID": 2,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 41,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            -1,
+            12,
+            11,
+            11,
+            12,
+            -1,
+            11,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            211,
+            202,
+            204,
+            209,
+            205,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 42,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            11,
+            11,
+            11,
+            12,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            211,
+            212,
+            204,
+            208,
+            203,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 43,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            12,
+            11,
+            -1,
+            11,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            211,
+            207,
+            205,
+            204,
+            212,
+            201
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 44,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            [
+                1,
+                1,
+                2,
+                2,
+                0,
+                0
+            ],
+            [
+                -1,
+                -1,
+                2,
+                2,
+                0,
+                0
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            13,
+            13,
+            13,
+            -1
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            212,
+            203,
+            204,
+            201,
+            202,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 45,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            12,
+            12,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 3,
+        "coin": 80,
+        "cakePiece": 50,
+        "collection": [
+            207,
+            206,
+            205,
+            201,
+            203,
+            211
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 200
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 46,
+        "mapType": 1,
+        "cakes": [
+            [
+                2,
+                2,
+                1,
+                1,
+                3,
+                3
+            ],
+            null,
+            null,
+            [
+                2,
+                2,
+                2,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            13,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            13,
+            11,
+            -1,
+            -1,
+            -1,
+            13
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            208,
+            205,
+            209,
+            210,
+            203,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 47,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            [
+                2,
+                2,
+                4,
+                4,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            13,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            11,
+            11,
+            11,
+            13,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            204,
+            208,
+            207,
+            203,
+            202,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 48,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ],
+            null,
+            [
+                2,
+                2,
+                1,
+                2,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            12,
+            -1,
+            11,
+            -1,
+            -1,
+            12
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            212,
+            201,
+            207,
+            211,
+            208,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 49,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            13,
+            11,
+            11,
+            11,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 50,
+        "collection": [
+            205,
+            201,
+            203,
+            207,
+            204,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 50,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            12,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            12,
+            11
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 45,
+        "collection": [
+            212,
+            208,
+            203,
+            206,
+            201,
+            207
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 205
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 51,
+        "mapType": 1,
+        "cakes": [
+            [
+                1,
+                1,
+                1,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                0,
+                0,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                0,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            [
+                1,
+                0,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            13,
+            -1,
+            -1,
+            13,
+            13,
+            -1,
+            13,
+            12,
+            -1,
+            13,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 2,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            209,
+            207,
+            202,
+            212,
+            208,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 52,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                4,
+                4,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            11
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            207,
+            201,
+            205,
+            209,
+            202,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 53,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            12,
+            11,
+            -1,
+            11,
+            13,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            210,
+            212,
+            209,
+            206,
+            208,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 54,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                0,
+                0,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                1,
+                1,
+                0,
+                0
+            ],
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                1,
+                -1
+            ],
+            null,
+            [
+                -1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ],
+            null,
+            null,
+            [
+                2,
+                2,
+                1,
+                1,
+                0,
+                0
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            13,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            13,
+            11
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            201,
+            208,
+            207,
+            210,
+            206,
+            212
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 55,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            null,
+            [
+                3,
+                3,
+                3,
+                0,
+                0,
+                0
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            13,
+            11,
+            13,
+            11
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 45,
+        "collection": [
+            202,
+            208,
+            205,
+            204,
+            209,
+            201
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 200
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 56,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                3,
+                3,
+                0,
+                -1
+            ],
+            [
+                2,
+                2,
+                4,
+                4,
+                0,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            11,
+            11,
+            11,
+            11,
+            11,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            208,
+            210,
+            204,
+            212,
+            201,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 57,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                1,
+                1,
+                0,
+                -1
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            11,
+            13,
+            -1,
+            -1,
+            11,
+            11,
+            -1,
+            -1,
+            13,
+            11,
+            -1
+        ],
+        "table": 11,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 3,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            202,
+            206,
+            209,
+            203,
+            204,
+            208
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 58,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                -1,
+                -1
+            ],
+            null,
+            [
+                3,
+                3,
+                3,
+                4,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                4,
+                4,
+                3,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                2,
+                2,
+                1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            12,
+            -1,
+            -1,
+            13,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            11,
+            -1,
+            -1,
+            13,
+            11
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            202,
+            201,
+            210,
+            209,
+            203,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 59,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                4,
+                4,
+                0,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                3,
+                3,
+                0,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            11,
+            -1,
+            12,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            13,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 60,
+        "cakePiece": 45,
+        "collection": [
+            203,
+            207,
+            208,
+            206,
+            211,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 60,
+        "mapType": 1,
+        "cakes": [
+            [
+                0,
+                0,
+                0,
+                1,
+                1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                2,
+                0,
+                0,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                -1
+            ],
+            null,
+            [
+                3,
+                3,
+                3,
+                0,
+                0,
+                -1
+            ],
+            null,
+            [
+                3,
+                3,
+                3,
+                2,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            212,
+            209,
+            205,
+            207,
+            208,
+            211
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 203
+            },
+            {
+                "ItemID": 2,
+                "Qty": 6
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 61,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                1,
+                1,
+                -1
+            ],
+            [
+                -1,
+                1,
+                1,
+                1,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            [
+                4,
+                4,
+                4,
+                -1,
+                0,
+                0
+            ],
+            [
+                3,
+                3,
+                3,
+                -1,
+                4,
+                4
+            ]
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            12,
+            11,
+            13,
+            13,
+            11,
+            -1,
+            11,
+            13,
+            13
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            208,
+            212,
+            201,
+            203,
+            202,
+            205
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 62,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                -1,
+                3,
+                3
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                2,
+                0,
+                0,
+                -1
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            -1,
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            11,
+            12
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            202,
+            209,
+            205,
+            210,
+            212,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 63,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                2,
+                2,
+                -1,
+                -1,
+                1
+            ],
+            null,
+            null,
+            [
+                0,
+                -1,
+                -1,
+                1,
+                1,
+                0
+            ],
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                -1,
+                -1,
+                4,
+                4
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            11,
+            13,
+            -1,
+            11,
+            -1,
+            13,
+            11,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 5,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            205,
+            206,
+            203,
+            210,
+            208,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 64,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                1,
+                1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                2,
+                3,
+                3,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            12,
+            11,
+            13,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            210,
+            208,
+            209,
+            206,
+            205,
+            201
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 65,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                3,
+                3,
+                3
+            ],
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            11,
+            11,
+            12
+        ],
+        "table": 13,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 100,
+        "cakePiece": 40,
+        "collection": [
+            212,
+            201,
+            205,
+            206,
+            209,
+            203
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 200
+            },
+            {
+                "ItemID": 2,
+                "Qty": 5
+            },
+            {
+                "ItemID": 3,
+                "Qty": 5
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 66,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                3,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            12,
+            11,
+            -1,
+            11,
+            13,
+            11
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            201,
+            208,
+            204,
+            209,
+            212,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 67,
+        "mapType": 1,
+        "cakes": [
+            [
+                0,
+                0,
+                1,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                3,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                0,
+                -1,
+                -1,
+                -1
+            ],
+            null,
+            [
+                1,
+                1,
+                2,
+                -1,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            13,
+            -1,
+            13,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            -1,
+            13
+        ],
+        "table": 11,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            203,
+            212,
+            201,
+            205,
+            211,
+            208
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 68,
+        "mapType": 1,
+        "cakes": [
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                2,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                2,
+                2,
+                2
+            ],
+            null
+        ],
+        "obstacles": [
+            13,
+            -1,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            -1,
+            13,
+            12
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            209,
+            212,
+            208,
+            210,
+            201,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 69,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                -1,
+                -1,
+                4,
+                4
+            ]
+        ],
+        "obstacles": [
+            11,
+            11,
+            11,
+            -1,
+            -1,
+            11,
+            11,
+            13,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            13
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 5,
+        "coin": 80,
+        "cakePiece": 40,
+        "collection": [
+            212,
+            206,
+            204,
+            203,
+            209,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 70,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                1,
+                3,
+                3
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                0,
+                2,
+                2
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            11,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            11
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 100,
+        "cakePiece": 30,
+        "collection": [
+            207,
+            202,
+            208,
+            204,
+            206,
+            205
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 208
+            },
+            {
+                "ItemID": 3,
+                "Qty": 6
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 71,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            12,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            12,
+            11
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            211,
+            205,
+            202,
+            203,
+            208,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 72,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            11,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            -1,
+            11,
+            11,
+            11,
+            12,
+            -1,
+            11,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 6,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            209,
+            207,
+            210,
+            212,
+            202,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 73,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                0,
+                0,
+                2,
+                2
+            ],
+            null,
+            [
+                2,
+                2,
+                0,
+                0,
+                1,
+                1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            13,
+            -1,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1,
+            12,
+            11
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            202,
+            201,
+            211,
+            206,
+            204,
+            212
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 74,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            11,
+            11,
+            11,
+            11
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            201,
+            206,
+            210,
+            212,
+            202,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 75,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            [
+                4,
+                4,
+                5,
+                5,
+                0,
+                0
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            12,
+            -1,
+            12,
+            13,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            11,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 6,
+        "coin": 100,
+        "cakePiece": 30,
+        "collection": [
+            203,
+            211,
+            210,
+            205,
+            206,
+            209
+        ],
+        "ListItem": [
+            {
+                "ItemID": 0,
+                "Qty": 300
+            },
+            {
+                "ItemID": 3,
+                "Qty": 2
+            },
+            {
+                "ItemID": 4,
+                "Qty": 6
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 76,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            -1,
+            12,
+            11,
+            11,
+            11,
+            12,
+            -1,
+            11
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 6,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            210,
+            207,
+            209,
+            212,
+            208,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 77,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            -1,
+            11,
+            11,
+            -1,
+            11,
+            11,
+            11,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            203,
+            208,
+            201,
+            206,
+            210,
+            209
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 78,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            12,
+            11,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            205,
+            210,
+            209,
+            212,
+            204,
+            202
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 79,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                2,
+                2
+            ],
+            null,
+            [
+                3,
+                3,
+                1,
+                1,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            13,
+            12,
+            13,
+            -1,
+            -1,
+            -1,
+            12
+        ],
+        "table": 13,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 30,
+        "collection": [
+            203,
+            210,
+            212,
+            204,
+            211,
+            206
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 80,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            12,
+            11,
+            12,
+            11,
+            11,
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 100,
+        "cakePiece": 20,
+        "collection": [
+            211,
+            202,
+            208,
+            212,
+            207,
+            209
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 210
+            },
+            {
+                "ItemID": 4,
+                "Qty": 6
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 81,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                2,
+                2
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            11,
+            11,
+            12,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            13,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            203,
+            206,
+            207,
+            202,
+            208,
+            211
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 82,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                1,
+                1,
+                -1,
+                -1
+            ],
+            [
+                2,
+                2,
+                3,
+                3,
+                -1,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                4,
+                4,
+                5,
+                5,
+                -1,
+                -1
+            ]
+        ],
+        "obstacles": [
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            13,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            -1,
+            -1,
+            13
+        ],
+        "table": 12,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 6,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            207,
+            206,
+            212,
+            208,
+            201,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 83,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            [
+                0,
+                0,
+                4,
+                4,
+                5,
+                5
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            13,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            11,
+            11,
+            11,
+            12,
+            -1,
+            -1
+        ],
+        "table": 12,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 6,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            205,
+            204,
+            210,
+            211,
+            202,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 84,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                0,
+                3,
+                3,
+                -1
+            ],
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                2,
+                2,
+                2,
+                0,
+                0,
+                -1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1,
+                -1
+            ],
+            null
+        ],
+        "obstacles": [
+            12,
+            12,
+            -1,
+            13,
+            13,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            13,
+            13,
+            -1
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            202,
+            208,
+            211,
+            201,
+            205,
+            209
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 85,
+        "mapType": 1,
+        "cakes": [],
+        "obstacles": [
+            12,
+            -1,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            11,
+            -1,
+            12
+        ],
+        "table": 11,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 4,
+        "coin": 100,
+        "cakePiece": 20,
+        "collection": [
+            210,
+            211,
+            207,
+            205,
+            201,
+            203
+        ],
+        "ListItem": [
+            {
+                "ItemID": 2,
+                "Qty": 4
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 86,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            null,
+            null,
+            null,
+            [
+                3,
+                3,
+                3,
+                4,
+                4,
+                4
+            ],
+            null,
+            [
+                0,
+                0,
+                0,
+                5,
+                5,
+                5
+            ],
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            12,
+            -1,
+            -1,
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            11,
+            -1
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 6,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            203,
+            206,
+            212,
+            202,
+            209,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 87,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                2,
+                0
+            ],
+            [
+                0,
+                0,
+                3,
+                3,
+                3,
+                1
+            ],
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            11,
+            11,
+            -1,
+            -1,
+            -1,
+            11,
+            -1,
+            13,
+            13,
+            11,
+            12,
+            11
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            210,
+            208,
+            203,
+            211,
+            202,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 88,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            [
+                0,
+                0,
+                3,
+                3,
+                3,
+                1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                1,
+                2,
+                2,
+                2,
+                0
+            ],
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            11,
+            13,
+            12,
+            -1,
+            11,
+            -1,
+            12,
+            13,
+            11,
+            11
+        ],
+        "table": 13,
+        "targetType": 3,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            211,
+            210,
+            206,
+            212,
+            205,
+            203
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 89,
+        "mapType": 1,
+        "cakes": [
+            null,
+            [
+                1,
+                1,
+                1,
+                2,
+                2,
+                -1
+            ],
+            null,
+            [
+                2,
+                2,
+                2,
+                3,
+                3,
+                -1
+            ],
+            [
+                3,
+                3,
+                3,
+                0,
+                0,
+                -1
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            11,
+            13,
+            -1,
+            13,
+            13,
+            -1,
+            12,
+            -1,
+            -1,
+            12,
+            -1,
+            -1
+        ],
+        "table": 11,
+        "targetType": 2,
+        "targetScore": 0,
+        "cakerange": 4,
+        "coin": 80,
+        "cakePiece": 20,
+        "collection": [
+            201,
+            212,
+            206,
+            211,
+            204,
+            207
+        ],
+        "ListItem": [],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "level": 90,
+        "mapType": 1,
+        "cakes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                0
+            ],
+            null,
+            null,
+            null,
+            null
+        ],
+        "obstacles": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            12,
+            12,
+            -1,
+            -1,
+            11,
+            13,
+            11,
+            -1,
+            -1,
+            12
+        ],
+        "table": 12,
+        "targetType": 1,
+        "targetScore": 500,
+        "cakerange": 6,
+        "coin": 100,
+        "cakePiece": 10,
+        "collection": [
+            208,
+            204,
+            203,
+            210,
+            201,
+            202
+        ],
+        "ListItem": [
+            {
+                "ItemID": 7,
+                "Qty": 206
+            },
+            {
+                "ItemID": 2,
+                "Qty": 4
+            },
+            {
+                "ItemID": 3,
+                "Qty": 4
+            },
+            {
+                "ItemID": 4,
+                "Qty": 4
+            }
+        ],
+        "position": [
+            0,
+            0
+        ]
+    }
+]

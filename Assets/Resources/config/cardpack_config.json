@@ -1,0 +1,32 @@
+[
+  {
+    "IdCake": 501,
+    "Ratio": 25,
+    "AmountNeed": 30
+  },
+  {
+    "IdCake": 502,
+    "Ratio": 25,
+    "AmountNeed": 30
+  },
+  {
+    "IdCake": 503,
+    "Ratio": 16,
+    "AmountNeed": 30
+  },
+  {
+    "IdCake": 504,
+    "Ratio": 13,
+    "AmountNeed": 50
+  },
+  {
+    "IdCake": 505,
+    "Ratio": 13,
+    "AmountNeed": 50
+  },
+  {
+    "IdCake": 506,
+    "Ratio": 8,
+    "AmountNeed": 60
+  }
+]

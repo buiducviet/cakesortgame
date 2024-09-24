@@ -1,0 +1,182 @@
+[
+    {
+        "ID": 1,
+        "ProductName": "GoldPack1_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "Gold",
+            "ItemID": 0,
+            "Qty": 1300
+        }
+    },
+    {
+        "ID": 2,
+        "ProductName": "GoldPack2_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "Gold",
+            "ItemID": 0,
+            "Qty": 4500
+        }
+    },
+    {
+        "ID": 3,
+        "ProductName": "GoldPack3_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "Gold",
+            "ItemID": 0,
+            "Qty": 9000
+        }
+    },
+    {
+        "ID": 4,
+        "ProductName": "SuperHammerPack",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "SuperHammer",
+            "ItemID": 1,
+            "Qty": 7
+        }
+    },
+    {
+        "ID": 5,
+        "ProductName": "SuperHammerPack1",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "SuperHammer",
+            "ItemID": 1,
+            "Qty": 14
+        }
+    },
+    {
+        "ID": 6,
+        "ProductName": "SuperHammerPack2",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "SuperHammer",
+            "ItemID": 1,
+            "Qty": 28
+        }
+    },
+    {
+        "ID": 7,
+        "ProductName": "SkipTicketPack1_off33",
+        "Note": "Sale Off",
+        "Item": {
+            "Name": "SkipTicket",
+            "ItemID": 12,
+            "Qty": 10
+        }
+    },
+    {
+        "ID": 8,
+        "ProductName": "SkipTicketPack4_off33",
+        "Note": "Sale Off",
+        "Item": {
+            "Name": "SkipTicket",
+            "ItemID": 12,
+            "Qty": 35
+        }
+    },
+    {
+        "ID": 9,
+        "ProductName": "SkipTicketPack7_off33",
+        "Note": "Sale Off",
+        "Item": {
+            "Name": "SkipTicket",
+            "ItemID": 12,
+            "Qty": 90
+        }
+    },
+    {
+        "ID": 10,
+        "ProductName": "HammerPack1_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "hammer",
+            "ItemID": 2,
+            "Qty": 20
+        }
+    },
+    {
+        "ID": 11,
+        "ProductName": "HammerPack2_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "hammer",
+            "ItemID": 2,
+            "Qty": 35
+        }
+    },
+    {
+        "ID": 12,
+        "ProductName": "HammerPack3_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "hammer",
+            "ItemID": 2,
+            "Qty": 50
+        }
+    },
+    {
+        "ID": 13,
+        "ProductName": "TongPack1_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "tong",
+            "ItemID": 3,
+            "Qty": 20
+        }
+    },
+    {
+        "ID": 14,
+        "ProductName": "TongPack2_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "tong",
+            "ItemID": 3,
+            "Qty": 35
+        }
+    },
+    {
+        "ID": 15,
+        "ProductName": "TongPack3_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "tong",
+            "ItemID": 3,
+            "Qty": 50
+        }
+    },
+    {
+        "ID": 16,
+        "ProductName": "SwapPack1_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "shuffle",
+            "ItemID": 4,
+            "Qty": 20
+        }
+    },
+    {
+        "ID": 17,
+        "ProductName": "SwapPack2_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "shuffle",
+            "ItemID": 4,
+            "Qty": 35
+        }
+    },
+    {
+        "ID": 18,
+        "ProductName": "SwapPack3_bonus30",
+        "Note": "Bonus",
+        "Item": {
+            "Name": "shuffle",
+            "ItemID": 4,
+            "Qty": 50
+        }
+    }
+]

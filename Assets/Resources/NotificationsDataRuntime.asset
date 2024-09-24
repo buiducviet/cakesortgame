@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc367cbd80330f510472cf8487c9988, type: 3}
+  m_Name: NotificationsDataRuntime
+  m_EditorClassIdentifier:
+  useForIos: 1
+  useForAndroid: 1
+  iconIdentifierSmall: icon_0
+  iconIdentifierLarge: icon_1
+  notificationType: 1
+  lstBigPictures:
+  - notify_big_picture1.png
+  lstNotiTitle:
+  - notiTitleContent: So close!
+    notiEmojiTitle: 5
+  - notiTitleContent: Cake Sort
+    notiEmojiTitle: 25
+  - notiTitleContent: Your Bakery is waiting!!
+    notiEmojiTitle: 25
+  - notiTitleContent: Rewards awaiting!!
+    notiEmojiTitle: 31
+  - notiTitleContent: It's Cake time!!!
+    notiEmojiTitle: 25
+  lstNotiDescription:
+  - notiTitleContent: Come back to unlock your next cake!
+    notiEmojiTitle: 0
+  - notiTitleContent: Up your rank among millions of people now!
+    notiEmojiTitle: 0
+  - notiTitleContent: Hey! It's time to bake some delicious cakes, come back now!
+    notiEmojiTitle: 0
+  - notiTitleContent: Let's try some fun minigames and claim extra rewards!!!
+    notiEmojiTitle: 0
+  - notiTitleContent: Some say bonus level is an little difficult, but I think you can win this. Come back now!
+    notiEmojiTitle: 0
+  lstNotiSummary:
+  - notiTitleContent: Many delicious cakes are waiting!
+    notiEmojiTitle: 0
+  - notiTitleContent: Someone has surpassed you in the rankings
+    notiEmojiTitle: 0
+  - notiTitleContent: Cakes cannot bake themselves. They need you right now!
+    notiEmojiTitle: 0
+  - notiTitleContent: The more you play the more skilled you will become
+    notiEmojiTitle: 0
+  - notiTitleContent: It's a good thing to relax yourself with some cute Cakes
+    notiEmojiTitle: 0
+  hourNotiStart: 19
+  minuteNotiStart: 45
+  secondNotiStart: 0
+  hourDelayInterval: 24

@@ -1,0 +1,2402 @@
+[
+    {
+        "Level": 1,
+        "XP": 300,
+        "Chest": 1,
+        "Dummy": 30
+    },
+    {
+        "Level": 2,
+        "XP": 600,
+        "Chest": 1,
+        "Dummy": 30
+    },
+    {
+        "Level": 3,
+        "XP": 1000,
+        "Chest": 1,
+        "Dummy": 60
+    },
+    {
+        "Level": 4,
+        "XP": 1400,
+        "Chest": 1,
+        "Dummy": 100
+    },
+    {
+        "Level": 5,
+        "XP": 1900,
+        "Chest": 1,
+        "Dummy": 140
+    },
+    {
+        "Level": 6,
+        "XP": 2400,
+        "Chest": 1,
+        "Dummy": 190
+    },
+    {
+        "Level": 7,
+        "XP": 2900,
+        "Chest": 1,
+        "Dummy": 240
+    },
+    {
+        "Level": 8,
+        "XP": 3500,
+        "Chest": 1,
+        "Dummy": 290
+    },
+    {
+        "Level": 9,
+        "XP": 4100,
+        "Chest": 1,
+        "Dummy": 350
+    },
+    {
+        "Level": 10,
+        "XP": 4700,
+        "Chest": 2,
+        "Dummy": 410
+    },
+    {
+        "Level": 11,
+        "XP": 5500,
+        "Chest": 1,
+        "Dummy": 470
+    },
+    {
+        "Level": 12,
+        "XP": 6300,
+        "Chest": 1,
+        "Dummy": 550
+    },
+    {
+        "Level": 13,
+        "XP": 7100,
+        "Chest": 1,
+        "Dummy": 630
+    },
+    {
+        "Level": 14,
+        "XP": 7900,
+        "Chest": 1,
+        "Dummy": 710
+    },
+    {
+        "Level": 15,
+        "XP": 8700,
+        "Chest": 1,
+        "Dummy": 790
+    },
+    {
+        "Level": 16,
+        "XP": 9700,
+        "Chest": 1,
+        "Dummy": 870
+    },
+    {
+        "Level": 17,
+        "XP": 10700,
+        "Chest": 1,
+        "Dummy": 970
+    },
+    {
+        "Level": 18,
+        "XP": 11700,
+        "Chest": 1,
+        "Dummy": 1070
+    },
+    {
+        "Level": 19,
+        "XP": 12700,
+        "Chest": 1,
+        "Dummy": 1170
+    },
+    {
+        "Level": 20,
+        "XP": 13700,
+        "Chest": 3,
+        "Dummy": 1270
+    },
+    {
+        "Level": 21,
+        "XP": 14900,
+        "Chest": 1,
+        "Dummy": 1370
+    },
+    {
+        "Level": 22,
+        "XP": 16100,
+        "Chest": 1,
+        "Dummy": 1490
+    },
+    {
+        "Level": 23,
+        "XP": 17300,
+        "Chest": 1,
+        "Dummy": 1610
+    },
+    {
+        "Level": 24,
+        "XP": 18500,
+        "Chest": 1,
+        "Dummy": 1730
+    },
+    {
+        "Level": 25,
+        "XP": 19700,
+        "Chest": 2,
+        "Dummy": 1850
+    },
+    {
+        "Level": 26,
+        "XP": 20900,
+        "Chest": 1,
+        "Dummy": 1970
+    },
+    {
+        "Level": 27,
+        "XP": 22100,
+        "Chest": 1,
+        "Dummy": 2090
+    },
+    {
+        "Level": 28,
+        "XP": 23300,
+        "Chest": 1,
+        "Dummy": 2210
+    },
+    {
+        "Level": 29,
+        "XP": 24500,
+        "Chest": 1,
+        "Dummy": 2330
+    },
+    {
+        "Level": 30,
+        "XP": 25700,
+        "Chest": 3,
+        "Dummy": 2450
+    },
+    {
+        "Level": 31,
+        "XP": 27200,
+        "Chest": 1,
+        "Dummy": 2570
+    },
+    {
+        "Level": 32,
+        "XP": 28700,
+        "Chest": 1,
+        "Dummy": 2720
+    },
+    {
+        "Level": 33,
+        "XP": 30200,
+        "Chest": 1,
+        "Dummy": 2870
+    },
+    {
+        "Level": 34,
+        "XP": 31700,
+        "Chest": 1,
+        "Dummy": 3020
+    },
+    {
+        "Level": 35,
+        "XP": 33200,
+        "Chest": 2,
+        "Dummy": 3170
+    },
+    {
+        "Level": 36,
+        "XP": 34700,
+        "Chest": 1,
+        "Dummy": 3320
+    },
+    {
+        "Level": 37,
+        "XP": 36200,
+        "Chest": 1,
+        "Dummy": 3470
+    },
+    {
+        "Level": 38,
+        "XP": 37700,
+        "Chest": 1,
+        "Dummy": 3620
+    },
+    {
+        "Level": 39,
+        "XP": 39200,
+        "Chest": 1,
+        "Dummy": 3770
+    },
+    {
+        "Level": 40,
+        "XP": 40700,
+        "Chest": 3,
+        "Dummy": 3920
+    },
+    {
+        "Level": 41,
+        "XP": 42700,
+        "Chest": 1,
+        "Dummy": 4070
+    },
+    {
+        "Level": 42,
+        "XP": 44700,
+        "Chest": 1,
+        "Dummy": 4270
+    },
+    {
+        "Level": 43,
+        "XP": 46700,
+        "Chest": 1,
+        "Dummy": 4470
+    },
+    {
+        "Level": 44,
+        "XP": 48700,
+        "Chest": 1,
+        "Dummy": 4670
+    },
+    {
+        "Level": 45,
+        "XP": 50700,
+        "Chest": 2,
+        "Dummy": 4870
+    },
+    {
+        "Level": 46,
+        "XP": 52700,
+        "Chest": 1,
+        "Dummy": 5070
+    },
+    {
+        "Level": 47,
+        "XP": 54700,
+        "Chest": 1,
+        "Dummy": 5270
+    },
+    {
+        "Level": 48,
+        "XP": 56700,
+        "Chest": 1,
+        "Dummy": 5470
+    },
+    {
+        "Level": 49,
+        "XP": 58700,
+        "Chest": 1,
+        "Dummy": 5670
+    },
+    {
+        "Level": 50,
+        "XP": 60700,
+        "Chest": 3,
+        "Dummy": 5870
+    },
+    {
+        "Level": 51,
+        "XP": 63700,
+        "Chest": 1,
+        "Dummy": 6070
+    },
+    {
+        "Level": 52,
+        "XP": 66700,
+        "Chest": 1,
+        "Dummy": 6370
+    },
+    {
+        "Level": 53,
+        "XP": 69700,
+        "Chest": 1,
+        "Dummy": 6670
+    },
+    {
+        "Level": 54,
+        "XP": 72700,
+        "Chest": 1,
+        "Dummy": 6970
+    },
+    {
+        "Level": 55,
+        "XP": 75700,
+        "Chest": 2,
+        "Dummy": 7270
+    },
+    {
+        "Level": 56,
+        "XP": 78700,
+        "Chest": 1,
+        "Dummy": 7570
+    },
+    {
+        "Level": 57,
+        "XP": 81700,
+        "Chest": 1,
+        "Dummy": 7870
+    },
+    {
+        "Level": 58,
+        "XP": 84700,
+        "Chest": 1,
+        "Dummy": 8170
+    },
+    {
+        "Level": 59,
+        "XP": 87700,
+        "Chest": 1,
+        "Dummy": 8470
+    },
+    {
+        "Level": 60,
+        "XP": 90700,
+        "Chest": 3,
+        "Dummy": 8770
+    },
+    {
+        "Level": 61,
+        "XP": 94700,
+        "Chest": 1,
+        "Dummy": 9070
+    },
+    {
+        "Level": 62,
+        "XP": 98700,
+        "Chest": 1,
+        "Dummy": 9470
+    },
+    {
+        "Level": 63,
+        "XP": 102700,
+        "Chest": 1,
+        "Dummy": 9870
+    },
+    {
+        "Level": 64,
+        "XP": 106700,
+        "Chest": 1,
+        "Dummy": 10270
+    },
+    {
+        "Level": 65,
+        "XP": 110700,
+        "Chest": 2,
+        "Dummy": 10670
+    },
+    {
+        "Level": 66,
+        "XP": 114700,
+        "Chest": 1,
+        "Dummy": 11070
+    },
+    {
+        "Level": 67,
+        "XP": 118700,
+        "Chest": 1,
+        "Dummy": 11470
+    },
+    {
+        "Level": 68,
+        "XP": 122700,
+        "Chest": 1,
+        "Dummy": 11870
+    },
+    {
+        "Level": 69,
+        "XP": 126700,
+        "Chest": 1,
+        "Dummy": 12270
+    },
+    {
+        "Level": 70,
+        "XP": 130700,
+        "Chest": 3,
+        "Dummy": 12670
+    },
+    {
+        "Level": 71,
+        "XP": 135700,
+        "Chest": 1,
+        "Dummy": 13070
+    },
+    {
+        "Level": 72,
+        "XP": 140700,
+        "Chest": 1,
+        "Dummy": 13570
+    },
+    {
+        "Level": 73,
+        "XP": 145700,
+        "Chest": 1,
+        "Dummy": 14070
+    },
+    {
+        "Level": 74,
+        "XP": 150700,
+        "Chest": 1,
+        "Dummy": 14570
+    },
+    {
+        "Level": 75,
+        "XP": 155700,
+        "Chest": 2,
+        "Dummy": 15070
+    },
+    {
+        "Level": 76,
+        "XP": 160700,
+        "Chest": 1,
+        "Dummy": 15570
+    },
+    {
+        "Level": 77,
+        "XP": 165700,
+        "Chest": 1,
+        "Dummy": 16070
+    },
+    {
+        "Level": 78,
+        "XP": 170700,
+        "Chest": 1,
+        "Dummy": 16570
+    },
+    {
+        "Level": 79,
+        "XP": 175700,
+        "Chest": 1,
+        "Dummy": 17070
+    },
+    {
+        "Level": 80,
+        "XP": 180700,
+        "Chest": 3,
+        "Dummy": 17570
+    },
+    {
+        "Level": 81,
+        "XP": 186700,
+        "Chest": 1,
+        "Dummy": 18070
+    },
+    {
+        "Level": 82,
+        "XP": 192700,
+        "Chest": 1,
+        "Dummy": 18670
+    },
+    {
+        "Level": 83,
+        "XP": 198700,
+        "Chest": 1,
+        "Dummy": 19270
+    },
+    {
+        "Level": 84,
+        "XP": 204700,
+        "Chest": 1,
+        "Dummy": 19870
+    },
+    {
+        "Level": 85,
+        "XP": 210700,
+        "Chest": 2,
+        "Dummy": 20470
+    },
+    {
+        "Level": 86,
+        "XP": 216700,
+        "Chest": 1,
+        "Dummy": 21070
+    },
+    {
+        "Level": 87,
+        "XP": 222700,
+        "Chest": 1,
+        "Dummy": 21670
+    },
+    {
+        "Level": 88,
+        "XP": 228700,
+        "Chest": 1,
+        "Dummy": 22270
+    },
+    {
+        "Level": 89,
+        "XP": 234700,
+        "Chest": 1,
+        "Dummy": 22870
+    },
+    {
+        "Level": 90,
+        "XP": 242700,
+        "Chest": 3,
+        "Dummy": 23470
+    },
+    {
+        "Level": 91,
+        "XP": 250700,
+        "Chest": 1,
+        "Dummy": 24270
+    },
+    {
+        "Level": 92,
+        "XP": 258700,
+        "Chest": 1,
+        "Dummy": 25070
+    },
+    {
+        "Level": 93,
+        "XP": 266700,
+        "Chest": 1,
+        "Dummy": 25870
+    },
+    {
+        "Level": 94,
+        "XP": 274700,
+        "Chest": 1,
+        "Dummy": 26670
+    },
+    {
+        "Level": 95,
+        "XP": 282700,
+        "Chest": 2,
+        "Dummy": 27470
+    },
+    {
+        "Level": 96,
+        "XP": 292700,
+        "Chest": 1,
+        "Dummy": 28270
+    },
+    {
+        "Level": 97,
+        "XP": 302700,
+        "Chest": 1,
+        "Dummy": 29270
+    },
+    {
+        "Level": 98,
+        "XP": 312700,
+        "Chest": 1,
+        "Dummy": 30270
+    },
+    {
+        "Level": 99,
+        "XP": 322700,
+        "Chest": 1,
+        "Dummy": 31270
+    },
+    {
+        "Level": 100,
+        "XP": 332700,
+        "Chest": 3,
+        "Dummy": 32270
+    },
+    {
+        "Level": 101,
+        "XP": 344700,
+        "Chest": 1,
+        "Dummy": 33270
+    },
+    {
+        "Level": 102,
+        "XP": 356700,
+        "Chest": 1,
+        "Dummy": 34470
+    },
+    {
+        "Level": 103,
+        "XP": 368700,
+        "Chest": 1,
+        "Dummy": 35670
+    },
+    {
+        "Level": 104,
+        "XP": 380700,
+        "Chest": 1,
+        "Dummy": 36870
+    },
+    {
+        "Level": 105,
+        "XP": 392700,
+        "Chest": 3,
+        "Dummy": 38070
+    },
+    {
+        "Level": 106,
+        "XP": 404700,
+        "Chest": 1,
+        "Dummy": 39270
+    },
+    {
+        "Level": 107,
+        "XP": 416700,
+        "Chest": 1,
+        "Dummy": 40470
+    },
+    {
+        "Level": 108,
+        "XP": 428700,
+        "Chest": 1,
+        "Dummy": 41670
+    },
+    {
+        "Level": 109,
+        "XP": 440700,
+        "Chest": 1,
+        "Dummy": 42870
+    },
+    {
+        "Level": 110,
+        "XP": 452700,
+        "Chest": 3,
+        "Dummy": 44070
+    },
+    {
+        "Level": 111,
+        "XP": 466700,
+        "Chest": 1,
+        "Dummy": 45270
+    },
+    {
+        "Level": 112,
+        "XP": 480700,
+        "Chest": 1,
+        "Dummy": 46670
+    },
+    {
+        "Level": 113,
+        "XP": 494700,
+        "Chest": 1,
+        "Dummy": 48070
+    },
+    {
+        "Level": 114,
+        "XP": 508700,
+        "Chest": 1,
+        "Dummy": 49470
+    },
+    {
+        "Level": 115,
+        "XP": 522700,
+        "Chest": 3,
+        "Dummy": 50870
+    },
+    {
+        "Level": 116,
+        "XP": 536700,
+        "Chest": 1,
+        "Dummy": 52270
+    },
+    {
+        "Level": 117,
+        "XP": 550700,
+        "Chest": 1,
+        "Dummy": 53670
+    },
+    {
+        "Level": 118,
+        "XP": 564700,
+        "Chest": 1,
+        "Dummy": 55070
+    },
+    {
+        "Level": 119,
+        "XP": 578700,
+        "Chest": 1,
+        "Dummy": 56470
+    },
+    {
+        "Level": 120,
+        "XP": 592700,
+        "Chest": 3,
+        "Dummy": 57870
+    },
+    {
+        "Level": 121,
+        "XP": 608700,
+        "Chest": 1,
+        "Dummy": 59270
+    },
+    {
+        "Level": 122,
+        "XP": 624700,
+        "Chest": 1,
+        "Dummy": 60870
+    },
+    {
+        "Level": 123,
+        "XP": 640700,
+        "Chest": 1,
+        "Dummy": 62470
+    },
+    {
+        "Level": 124,
+        "XP": 656700,
+        "Chest": 1,
+        "Dummy": 64070
+    },
+    {
+        "Level": 125,
+        "XP": 672700,
+        "Chest": 3,
+        "Dummy": 65670
+    },
+    {
+        "Level": 126,
+        "XP": 688700,
+        "Chest": 1,
+        "Dummy": 67270
+    },
+    {
+        "Level": 127,
+        "XP": 704700,
+        "Chest": 1,
+        "Dummy": 68870
+    },
+    {
+        "Level": 128,
+        "XP": 720700,
+        "Chest": 1,
+        "Dummy": 70470
+    },
+    {
+        "Level": 129,
+        "XP": 736700,
+        "Chest": 1,
+        "Dummy": 72070
+    },
+    {
+        "Level": 130,
+        "XP": 752700,
+        "Chest": 3,
+        "Dummy": 73670
+    },
+    {
+        "Level": 131,
+        "XP": 770700,
+        "Chest": 1,
+        "Dummy": 75270
+    },
+    {
+        "Level": 132,
+        "XP": 788700,
+        "Chest": 1,
+        "Dummy": 77070
+    },
+    {
+        "Level": 133,
+        "XP": 806700,
+        "Chest": 1,
+        "Dummy": 78870
+    },
+    {
+        "Level": 134,
+        "XP": 824700,
+        "Chest": 1,
+        "Dummy": 80670
+    },
+    {
+        "Level": 135,
+        "XP": 842700,
+        "Chest": 3,
+        "Dummy": 82470
+    },
+    {
+        "Level": 136,
+        "XP": 860700,
+        "Chest": 1,
+        "Dummy": 84270
+    },
+    {
+        "Level": 137,
+        "XP": 878700,
+        "Chest": 1,
+        "Dummy": 86070
+    },
+    {
+        "Level": 138,
+        "XP": 896700,
+        "Chest": 1,
+        "Dummy": 87870
+    },
+    {
+        "Level": 139,
+        "XP": 914700,
+        "Chest": 1,
+        "Dummy": 89670
+    },
+    {
+        "Level": 140,
+        "XP": 932700,
+        "Chest": 3,
+        "Dummy": 91470
+    },
+    {
+        "Level": 141,
+        "XP": 952700,
+        "Chest": 1,
+        "Dummy": 93270
+    },
+    {
+        "Level": 142,
+        "XP": 972700,
+        "Chest": 1,
+        "Dummy": 95270
+    },
+    {
+        "Level": 143,
+        "XP": 992700,
+        "Chest": 1,
+        "Dummy": 97270
+    },
+    {
+        "Level": 144,
+        "XP": 1012700,
+        "Chest": 1,
+        "Dummy": 99270
+    },
+    {
+        "Level": 145,
+        "XP": 1032700,
+        "Chest": 3,
+        "Dummy": 101270
+    },
+    {
+        "Level": 146,
+        "XP": 1052700,
+        "Chest": 1,
+        "Dummy": 103270
+    },
+    {
+        "Level": 147,
+        "XP": 1072700,
+        "Chest": 1,
+        "Dummy": 105270
+    },
+    {
+        "Level": 148,
+        "XP": 1092700,
+        "Chest": 1,
+        "Dummy": 107270
+    },
+    {
+        "Level": 149,
+        "XP": 1112700,
+        "Chest": 1,
+        "Dummy": 109270
+    },
+    {
+        "Level": 150,
+        "XP": 1132700,
+        "Chest": 3,
+        "Dummy": 111270
+    },
+    {
+        "Level": 151,
+        "XP": 1154700,
+        "Chest": 1,
+        "Dummy": 113270
+    },
+    {
+        "Level": 152,
+        "XP": 1176700,
+        "Chest": 1,
+        "Dummy": 115470
+    },
+    {
+        "Level": 153,
+        "XP": 1198700,
+        "Chest": 1,
+        "Dummy": 117670
+    },
+    {
+        "Level": 154,
+        "XP": 1220700,
+        "Chest": 1,
+        "Dummy": 119870
+    },
+    {
+        "Level": 155,
+        "XP": 1242700,
+        "Chest": 3,
+        "Dummy": 122070
+    },
+    {
+        "Level": 156,
+        "XP": 1264700,
+        "Chest": 1,
+        "Dummy": 124270
+    },
+    {
+        "Level": 157,
+        "XP": 1286700,
+        "Chest": 1,
+        "Dummy": 126470
+    },
+    {
+        "Level": 158,
+        "XP": 1308700,
+        "Chest": 1,
+        "Dummy": 128670
+    },
+    {
+        "Level": 159,
+        "XP": 1330700,
+        "Chest": 1,
+        "Dummy": 130870
+    },
+    {
+        "Level": 160,
+        "XP": 1352700,
+        "Chest": 3,
+        "Dummy": 133070
+    },
+    {
+        "Level": 161,
+        "XP": 1376700,
+        "Chest": 1,
+        "Dummy": 135270
+    },
+    {
+        "Level": 162,
+        "XP": 1400700,
+        "Chest": 1,
+        "Dummy": 137670
+    },
+    {
+        "Level": 163,
+        "XP": 1424700,
+        "Chest": 1,
+        "Dummy": 140070
+    },
+    {
+        "Level": 164,
+        "XP": 1448700,
+        "Chest": 1,
+        "Dummy": 142470
+    },
+    {
+        "Level": 165,
+        "XP": 1472700,
+        "Chest": 3,
+        "Dummy": 144870
+    },
+    {
+        "Level": 166,
+        "XP": 1496700,
+        "Chest": 1,
+        "Dummy": 147270
+    },
+    {
+        "Level": 167,
+        "XP": 1520700,
+        "Chest": 1,
+        "Dummy": 149670
+    },
+    {
+        "Level": 168,
+        "XP": 1544700,
+        "Chest": 1,
+        "Dummy": 152070
+    },
+    {
+        "Level": 169,
+        "XP": 1568700,
+        "Chest": 1,
+        "Dummy": 154470
+    },
+    {
+        "Level": 170,
+        "XP": 1592700,
+        "Chest": 3,
+        "Dummy": 156870
+    },
+    {
+        "Level": 171,
+        "XP": 1618700,
+        "Chest": 1,
+        "Dummy": 159270
+    },
+    {
+        "Level": 172,
+        "XP": 1644700,
+        "Chest": 1,
+        "Dummy": 161870
+    },
+    {
+        "Level": 173,
+        "XP": 1670700,
+        "Chest": 1,
+        "Dummy": 164470
+    },
+    {
+        "Level": 174,
+        "XP": 1696700,
+        "Chest": 1,
+        "Dummy": 167070
+    },
+    {
+        "Level": 175,
+        "XP": 1722700,
+        "Chest": 3,
+        "Dummy": 169670
+    },
+    {
+        "Level": 176,
+        "XP": 1748700,
+        "Chest": 1,
+        "Dummy": 172270
+    },
+    {
+        "Level": 177,
+        "XP": 1774700,
+        "Chest": 1,
+        "Dummy": 174870
+    },
+    {
+        "Level": 178,
+        "XP": 1800700,
+        "Chest": 1,
+        "Dummy": 177470
+    },
+    {
+        "Level": 179,
+        "XP": 1826700,
+        "Chest": 1,
+        "Dummy": 180070
+    },
+    {
+        "Level": 180,
+        "XP": 1852700,
+        "Chest": 3,
+        "Dummy": 182670
+    },
+    {
+        "Level": 181,
+        "XP": 1880700,
+        "Chest": 1,
+        "Dummy": 185270
+    },
+    {
+        "Level": 182,
+        "XP": 1908700,
+        "Chest": 1,
+        "Dummy": 188070
+    },
+    {
+        "Level": 183,
+        "XP": 1936700,
+        "Chest": 1,
+        "Dummy": 190870
+    },
+    {
+        "Level": 184,
+        "XP": 1964700,
+        "Chest": 1,
+        "Dummy": 193670
+    },
+    {
+        "Level": 185,
+        "XP": 1992700,
+        "Chest": 3,
+        "Dummy": 196470
+    },
+    {
+        "Level": 186,
+        "XP": 2020700,
+        "Chest": 1,
+        "Dummy": 199270
+    },
+    {
+        "Level": 187,
+        "XP": 2048700,
+        "Chest": 1,
+        "Dummy": 202070
+    },
+    {
+        "Level": 188,
+        "XP": 2076700,
+        "Chest": 1,
+        "Dummy": 204870
+    },
+    {
+        "Level": 189,
+        "XP": 2104700,
+        "Chest": 1,
+        "Dummy": 207670
+    },
+    {
+        "Level": 190,
+        "XP": 2132700,
+        "Chest": 3,
+        "Dummy": 210470
+    },
+    {
+        "Level": 191,
+        "XP": 2162700,
+        "Chest": 1,
+        "Dummy": 213270
+    },
+    {
+        "Level": 192,
+        "XP": 2192700,
+        "Chest": 1,
+        "Dummy": 216270
+    },
+    {
+        "Level": 193,
+        "XP": 2222700,
+        "Chest": 1,
+        "Dummy": 219270
+    },
+    {
+        "Level": 194,
+        "XP": 2252700,
+        "Chest": 1,
+        "Dummy": 222270
+    },
+    {
+        "Level": 195,
+        "XP": 2282700,
+        "Chest": 3,
+        "Dummy": 225270
+    },
+    {
+        "Level": 196,
+        "XP": 2312700,
+        "Chest": 1,
+        "Dummy": 228270
+    },
+    {
+        "Level": 197,
+        "XP": 2342700,
+        "Chest": 1,
+        "Dummy": 231270
+    },
+    {
+        "Level": 198,
+        "XP": 2372700,
+        "Chest": 1,
+        "Dummy": 234270
+    },
+    {
+        "Level": 199,
+        "XP": 2402700,
+        "Chest": 1,
+        "Dummy": 237270
+    },
+    {
+        "Level": 200,
+        "XP": 2432700,
+        "Chest": 3,
+        "Dummy": 240270
+    },
+    {
+        "Level": 201,
+        "XP": 2464700,
+        "Chest": 1,
+        "Dummy": 243270
+    },
+    {
+        "Level": 202,
+        "XP": 2496700,
+        "Chest": 1,
+        "Dummy": 246470
+    },
+    {
+        "Level": 203,
+        "XP": 2528700,
+        "Chest": 1,
+        "Dummy": 249670
+    },
+    {
+        "Level": 204,
+        "XP": 2560700,
+        "Chest": 1,
+        "Dummy": 252870
+    },
+    {
+        "Level": 205,
+        "XP": 2592700,
+        "Chest": 3,
+        "Dummy": 256070
+    },
+    {
+        "Level": 206,
+        "XP": 2624700,
+        "Chest": 1,
+        "Dummy": 259270
+    },
+    {
+        "Level": 207,
+        "XP": 2656700,
+        "Chest": 1,
+        "Dummy": 262470
+    },
+    {
+        "Level": 208,
+        "XP": 2688700,
+        "Chest": 1,
+        "Dummy": 265670
+    },
+    {
+        "Level": 209,
+        "XP": 2720700,
+        "Chest": 1,
+        "Dummy": 268870
+    },
+    {
+        "Level": 210,
+        "XP": 2752700,
+        "Chest": 3,
+        "Dummy": 272070
+    },
+    {
+        "Level": 211,
+        "XP": 2784700,
+        "Chest": 1,
+        "Dummy": 275270
+    },
+    {
+        "Level": 212,
+        "XP": 2816700,
+        "Chest": 1,
+        "Dummy": 278470
+    },
+    {
+        "Level": 213,
+        "XP": 2848700,
+        "Chest": 1,
+        "Dummy": 281670
+    },
+    {
+        "Level": 214,
+        "XP": 2880700,
+        "Chest": 1,
+        "Dummy": 284870
+    },
+    {
+        "Level": 215,
+        "XP": 2912700,
+        "Chest": 3,
+        "Dummy": 288070
+    },
+    {
+        "Level": 216,
+        "XP": 2944700,
+        "Chest": 1,
+        "Dummy": 291270
+    },
+    {
+        "Level": 217,
+        "XP": 2976700,
+        "Chest": 1,
+        "Dummy": 294470
+    },
+    {
+        "Level": 218,
+        "XP": 3008700,
+        "Chest": 1,
+        "Dummy": 297670
+    },
+    {
+        "Level": 219,
+        "XP": 3040700,
+        "Chest": 1,
+        "Dummy": 300870
+    },
+    {
+        "Level": 220,
+        "XP": 3072700,
+        "Chest": 3,
+        "Dummy": 304070
+    },
+    {
+        "Level": 221,
+        "XP": 3104700,
+        "Chest": 1,
+        "Dummy": 307270
+    },
+    {
+        "Level": 222,
+        "XP": 3136700,
+        "Chest": 1,
+        "Dummy": 310470
+    },
+    {
+        "Level": 223,
+        "XP": 3168700,
+        "Chest": 1,
+        "Dummy": 313670
+    },
+    {
+        "Level": 224,
+        "XP": 3200700,
+        "Chest": 1,
+        "Dummy": 316870
+    },
+    {
+        "Level": 225,
+        "XP": 3232700,
+        "Chest": 3,
+        "Dummy": 320070
+    },
+    {
+        "Level": 226,
+        "XP": 3264700,
+        "Chest": 1,
+        "Dummy": 323270
+    },
+    {
+        "Level": 227,
+        "XP": 3296700,
+        "Chest": 1,
+        "Dummy": 326470
+    },
+    {
+        "Level": 228,
+        "XP": 3328700,
+        "Chest": 1,
+        "Dummy": 329670
+    },
+    {
+        "Level": 229,
+        "XP": 3360700,
+        "Chest": 1,
+        "Dummy": 332870
+    },
+    {
+        "Level": 230,
+        "XP": 3392700,
+        "Chest": 3,
+        "Dummy": 336070
+    },
+    {
+        "Level": 231,
+        "XP": 3424700,
+        "Chest": 1,
+        "Dummy": 339270
+    },
+    {
+        "Level": 232,
+        "XP": 3456700,
+        "Chest": 1,
+        "Dummy": 342470
+    },
+    {
+        "Level": 233,
+        "XP": 3488700,
+        "Chest": 1,
+        "Dummy": 345670
+    },
+    {
+        "Level": 234,
+        "XP": 3520700,
+        "Chest": 1,
+        "Dummy": 348870
+    },
+    {
+        "Level": 235,
+        "XP": 3552700,
+        "Chest": 3,
+        "Dummy": 352070
+    },
+    {
+        "Level": 236,
+        "XP": 3584700,
+        "Chest": 1,
+        "Dummy": 355270
+    },
+    {
+        "Level": 237,
+        "XP": 3616700,
+        "Chest": 1,
+        "Dummy": 358470
+    },
+    {
+        "Level": 238,
+        "XP": 3648700,
+        "Chest": 1,
+        "Dummy": 361670
+    },
+    {
+        "Level": 239,
+        "XP": 3680700,
+        "Chest": 1,
+        "Dummy": 364870
+    },
+    {
+        "Level": 240,
+        "XP": 3712700,
+        "Chest": 3,
+        "Dummy": 368070
+    },
+    {
+        "Level": 241,
+        "XP": 3744700,
+        "Chest": 1,
+        "Dummy": 371270
+    },
+    {
+        "Level": 242,
+        "XP": 3776700,
+        "Chest": 1,
+        "Dummy": 374470
+    },
+    {
+        "Level": 243,
+        "XP": 3808700,
+        "Chest": 1,
+        "Dummy": 377670
+    },
+    {
+        "Level": 244,
+        "XP": 3840700,
+        "Chest": 1,
+        "Dummy": 380870
+    },
+    {
+        "Level": 245,
+        "XP": 3872700,
+        "Chest": 3,
+        "Dummy": 384070
+    },
+    {
+        "Level": 246,
+        "XP": 3904700,
+        "Chest": 1,
+        "Dummy": 387270
+    },
+    {
+        "Level": 247,
+        "XP": 3936700,
+        "Chest": 1,
+        "Dummy": 390470
+    },
+    {
+        "Level": 248,
+        "XP": 3968700,
+        "Chest": 1,
+        "Dummy": 393670
+    },
+    {
+        "Level": 249,
+        "XP": 4000700,
+        "Chest": 1,
+        "Dummy": 396870
+    },
+    {
+        "Level": 250,
+        "XP": 4032700,
+        "Chest": 3,
+        "Dummy": 400070
+    },
+    {
+        "Level": 251,
+        "XP": 4066700,
+        "Chest": 1,
+        "Dummy": 403270
+    },
+    {
+        "Level": 252,
+        "XP": 4100700,
+        "Chest": 1,
+        "Dummy": 406670
+    },
+    {
+        "Level": 253,
+        "XP": 4134700,
+        "Chest": 1,
+        "Dummy": 410070
+    },
+    {
+        "Level": 254,
+        "XP": 4168700,
+        "Chest": 1,
+        "Dummy": 413470
+    },
+    {
+        "Level": 255,
+        "XP": 4202700,
+        "Chest": 3,
+        "Dummy": 416870
+    },
+    {
+        "Level": 256,
+        "XP": 4236700,
+        "Chest": 1,
+        "Dummy": 420270
+    },
+    {
+        "Level": 257,
+        "XP": 4270700,
+        "Chest": 1,
+        "Dummy": 423670
+    },
+    {
+        "Level": 258,
+        "XP": 4304700,
+        "Chest": 1,
+        "Dummy": 427070
+    },
+    {
+        "Level": 259,
+        "XP": 4338700,
+        "Chest": 1,
+        "Dummy": 430470
+    },
+    {
+        "Level": 260,
+        "XP": 4372700,
+        "Chest": 3,
+        "Dummy": 433870
+    },
+    {
+        "Level": 261,
+        "XP": 4406700,
+        "Chest": 1,
+        "Dummy": 437270
+    },
+    {
+        "Level": 262,
+        "XP": 4440700,
+        "Chest": 1,
+        "Dummy": 440670
+    },
+    {
+        "Level": 263,
+        "XP": 4474700,
+        "Chest": 1,
+        "Dummy": 444070
+    },
+    {
+        "Level": 264,
+        "XP": 4508700,
+        "Chest": 1,
+        "Dummy": 447470
+    },
+    {
+        "Level": 265,
+        "XP": 4542700,
+        "Chest": 3,
+        "Dummy": 450870
+    },
+    {
+        "Level": 266,
+        "XP": 4576700,
+        "Chest": 1,
+        "Dummy": 454270
+    },
+    {
+        "Level": 267,
+        "XP": 4610700,
+        "Chest": 1,
+        "Dummy": 457670
+    },
+    {
+        "Level": 268,
+        "XP": 4644700,
+        "Chest": 1,
+        "Dummy": 461070
+    },
+    {
+        "Level": 269,
+        "XP": 4678700,
+        "Chest": 1,
+        "Dummy": 464470
+    },
+    {
+        "Level": 270,
+        "XP": 4712700,
+        "Chest": 3,
+        "Dummy": 467870
+    },
+    {
+        "Level": 271,
+        "XP": 4746700,
+        "Chest": 1,
+        "Dummy": 471270
+    },
+    {
+        "Level": 272,
+        "XP": 4780700,
+        "Chest": 1,
+        "Dummy": 474670
+    },
+    {
+        "Level": 273,
+        "XP": 4814700,
+        "Chest": 1,
+        "Dummy": 478070
+    },
+    {
+        "Level": 274,
+        "XP": 4848700,
+        "Chest": 1,
+        "Dummy": 481470
+    },
+    {
+        "Level": 275,
+        "XP": 4882700,
+        "Chest": 3,
+        "Dummy": 484870
+    },
+    {
+        "Level": 276,
+        "XP": 4916700,
+        "Chest": 1,
+        "Dummy": 488270
+    },
+    {
+        "Level": 277,
+        "XP": 4950700,
+        "Chest": 1,
+        "Dummy": 491670
+    },
+    {
+        "Level": 278,
+        "XP": 4984700,
+        "Chest": 1,
+        "Dummy": 495070
+    },
+    {
+        "Level": 279,
+        "XP": 5018700,
+        "Chest": 1,
+        "Dummy": 498470
+    },
+    {
+        "Level": 280,
+        "XP": 5052700,
+        "Chest": 3,
+        "Dummy": 501870
+    },
+    {
+        "Level": 281,
+        "XP": 5086700,
+        "Chest": 1,
+        "Dummy": 505270
+    },
+    {
+        "Level": 282,
+        "XP": 5120700,
+        "Chest": 1,
+        "Dummy": 508670
+    },
+    {
+        "Level": 283,
+        "XP": 5154700,
+        "Chest": 1,
+        "Dummy": 512070
+    },
+    {
+        "Level": 284,
+        "XP": 5188700,
+        "Chest": 1,
+        "Dummy": 515470
+    },
+    {
+        "Level": 285,
+        "XP": 5222700,
+        "Chest": 3,
+        "Dummy": 518870
+    },
+    {
+        "Level": 286,
+        "XP": 5256700,
+        "Chest": 1,
+        "Dummy": 522270
+    },
+    {
+        "Level": 287,
+        "XP": 5290700,
+        "Chest": 1,
+        "Dummy": 525670
+    },
+    {
+        "Level": 288,
+        "XP": 5324700,
+        "Chest": 1,
+        "Dummy": 529070
+    },
+    {
+        "Level": 289,
+        "XP": 5358700,
+        "Chest": 1,
+        "Dummy": 532470
+    },
+    {
+        "Level": 290,
+        "XP": 5392700,
+        "Chest": 3,
+        "Dummy": 535870
+    },
+    {
+        "Level": 291,
+        "XP": 5426700,
+        "Chest": 1,
+        "Dummy": 539270
+    },
+    {
+        "Level": 292,
+        "XP": 5460700,
+        "Chest": 1,
+        "Dummy": 542670
+    },
+    {
+        "Level": 293,
+        "XP": 5494700,
+        "Chest": 1,
+        "Dummy": 546070
+    },
+    {
+        "Level": 294,
+        "XP": 5528700,
+        "Chest": 1,
+        "Dummy": 549470
+    },
+    {
+        "Level": 295,
+        "XP": 5562700,
+        "Chest": 3,
+        "Dummy": 552870
+    },
+    {
+        "Level": 296,
+        "XP": 5596700,
+        "Chest": 1,
+        "Dummy": 556270
+    },
+    {
+        "Level": 297,
+        "XP": 5630700,
+        "Chest": 1,
+        "Dummy": 559670
+    },
+    {
+        "Level": 298,
+        "XP": 5664700,
+        "Chest": 1,
+        "Dummy": 563070
+    },
+    {
+        "Level": 299,
+        "XP": 5698700,
+        "Chest": 1,
+        "Dummy": 566470
+    },
+    {
+        "Level": 300,
+        "XP": 5732700,
+        "Chest": 3,
+        "Dummy": 569870
+    },
+    {
+        "Level": 301,
+        "XP": 5768700,
+        "Chest": 1,
+        "Dummy": 573270
+    },
+    {
+        "Level": 302,
+        "XP": 5804700,
+        "Chest": 1,
+        "Dummy": 576870
+    },
+    {
+        "Level": 303,
+        "XP": 5840700,
+        "Chest": 1,
+        "Dummy": 580470
+    },
+    {
+        "Level": 304,
+        "XP": 5876700,
+        "Chest": 1,
+        "Dummy": 584070
+    },
+    {
+        "Level": 305,
+        "XP": 5912700,
+        "Chest": 3,
+        "Dummy": 587670
+    },
+    {
+        "Level": 306,
+        "XP": 5948700,
+        "Chest": 1,
+        "Dummy": 591270
+    },
+    {
+        "Level": 307,
+        "XP": 5984700,
+        "Chest": 1,
+        "Dummy": 594870
+    },
+    {
+        "Level": 308,
+        "XP": 6020700,
+        "Chest": 1,
+        "Dummy": 598470
+    },
+    {
+        "Level": 309,
+        "XP": 6056700,
+        "Chest": 1,
+        "Dummy": 602070
+    },
+    {
+        "Level": 310,
+        "XP": 6092700,
+        "Chest": 3,
+        "Dummy": 605670
+    },
+    {
+        "Level": 311,
+        "XP": 6128700,
+        "Chest": 1,
+        "Dummy": 609270
+    },
+    {
+        "Level": 312,
+        "XP": 6164700,
+        "Chest": 1,
+        "Dummy": 612870
+    },
+    {
+        "Level": 313,
+        "XP": 6200700,
+        "Chest": 1,
+        "Dummy": 616470
+    },
+    {
+        "Level": 314,
+        "XP": 6236700,
+        "Chest": 1,
+        "Dummy": 620070
+    },
+    {
+        "Level": 315,
+        "XP": 6272700,
+        "Chest": 3,
+        "Dummy": 623670
+    },
+    {
+        "Level": 316,
+        "XP": 6308700,
+        "Chest": 1,
+        "Dummy": 627270
+    },
+    {
+        "Level": 317,
+        "XP": 6344700,
+        "Chest": 1,
+        "Dummy": 630870
+    },
+    {
+        "Level": 318,
+        "XP": 6380700,
+        "Chest": 1,
+        "Dummy": 634470
+    },
+    {
+        "Level": 319,
+        "XP": 6416700,
+        "Chest": 1,
+        "Dummy": 638070
+    },
+    {
+        "Level": 320,
+        "XP": 6452700,
+        "Chest": 3,
+        "Dummy": 641670
+    },
+    {
+        "Level": 321,
+        "XP": 6488700,
+        "Chest": 1,
+        "Dummy": 645270
+    },
+    {
+        "Level": 322,
+        "XP": 6524700,
+        "Chest": 1,
+        "Dummy": 648870
+    },
+    {
+        "Level": 323,
+        "XP": 6560700,
+        "Chest": 1,
+        "Dummy": 652470
+    },
+    {
+        "Level": 324,
+        "XP": 6596700,
+        "Chest": 1,
+        "Dummy": 656070
+    },
+    {
+        "Level": 325,
+        "XP": 6632700,
+        "Chest": 3,
+        "Dummy": 659670
+    },
+    {
+        "Level": 326,
+        "XP": 6668700,
+        "Chest": 1,
+        "Dummy": 663270
+    },
+    {
+        "Level": 327,
+        "XP": 6704700,
+        "Chest": 1,
+        "Dummy": 666870
+    },
+    {
+        "Level": 328,
+        "XP": 6740700,
+        "Chest": 1,
+        "Dummy": 670470
+    },
+    {
+        "Level": 329,
+        "XP": 6776700,
+        "Chest": 1,
+        "Dummy": 674070
+    },
+    {
+        "Level": 330,
+        "XP": 6812700,
+        "Chest": 3,
+        "Dummy": 677670
+    },
+    {
+        "Level": 331,
+        "XP": 6848700,
+        "Chest": 1,
+        "Dummy": 681270
+    },
+    {
+        "Level": 332,
+        "XP": 6884700,
+        "Chest": 1,
+        "Dummy": 684870
+    },
+    {
+        "Level": 333,
+        "XP": 6920700,
+        "Chest": 1,
+        "Dummy": 688470
+    },
+    {
+        "Level": 334,
+        "XP": 6956700,
+        "Chest": 1,
+        "Dummy": 692070
+    },
+    {
+        "Level": 335,
+        "XP": 6992700,
+        "Chest": 3,
+        "Dummy": 695670
+    },
+    {
+        "Level": 336,
+        "XP": 7028700,
+        "Chest": 1,
+        "Dummy": 699270
+    },
+    {
+        "Level": 337,
+        "XP": 7064700,
+        "Chest": 1,
+        "Dummy": 702870
+    },
+    {
+        "Level": 338,
+        "XP": 7100700,
+        "Chest": 1,
+        "Dummy": 706470
+    },
+    {
+        "Level": 339,
+        "XP": 7136700,
+        "Chest": 1,
+        "Dummy": 710070
+    },
+    {
+        "Level": 340,
+        "XP": 7172700,
+        "Chest": 3,
+        "Dummy": 713670
+    },
+    {
+        "Level": 341,
+        "XP": 7208700,
+        "Chest": 1,
+        "Dummy": 717270
+    },
+    {
+        "Level": 342,
+        "XP": 7244700,
+        "Chest": 1,
+        "Dummy": 720870
+    },
+    {
+        "Level": 343,
+        "XP": 7280700,
+        "Chest": 1,
+        "Dummy": 724470
+    },
+    {
+        "Level": 344,
+        "XP": 7316700,
+        "Chest": 1,
+        "Dummy": 728070
+    },
+    {
+        "Level": 345,
+        "XP": 7352700,
+        "Chest": 3,
+        "Dummy": 731670
+    },
+    {
+        "Level": 346,
+        "XP": 7388700,
+        "Chest": 1,
+        "Dummy": 735270
+    },
+    {
+        "Level": 347,
+        "XP": 7424700,
+        "Chest": 1,
+        "Dummy": 738870
+    },
+    {
+        "Level": 348,
+        "XP": 7460700,
+        "Chest": 1,
+        "Dummy": 742470
+    },
+    {
+        "Level": 349,
+        "XP": 7496700,
+        "Chest": 1,
+        "Dummy": 746070
+    },
+    {
+        "Level": 350,
+        "XP": 7532700,
+        "Chest": 3,
+        "Dummy": 749670
+    },
+    {
+        "Level": 351,
+        "XP": 7570700,
+        "Chest": 1,
+        "Dummy": 753270
+    },
+    {
+        "Level": 352,
+        "XP": 7608700,
+        "Chest": 1,
+        "Dummy": 757070
+    },
+    {
+        "Level": 353,
+        "XP": 7646700,
+        "Chest": 1,
+        "Dummy": 760870
+    },
+    {
+        "Level": 354,
+        "XP": 7684700,
+        "Chest": 1,
+        "Dummy": 764670
+    },
+    {
+        "Level": 355,
+        "XP": 7722700,
+        "Chest": 3,
+        "Dummy": 768470
+    },
+    {
+        "Level": 356,
+        "XP": 7760700,
+        "Chest": 1,
+        "Dummy": 772270
+    },
+    {
+        "Level": 357,
+        "XP": 7798700,
+        "Chest": 1,
+        "Dummy": 776070
+    },
+    {
+        "Level": 358,
+        "XP": 7836700,
+        "Chest": 1,
+        "Dummy": 779870
+    },
+    {
+        "Level": 359,
+        "XP": 7874700,
+        "Chest": 1,
+        "Dummy": 783670
+    },
+    {
+        "Level": 360,
+        "XP": 7912700,
+        "Chest": 3,
+        "Dummy": 787470
+    },
+    {
+        "Level": 361,
+        "XP": 7950700,
+        "Chest": 1,
+        "Dummy": 791270
+    },
+    {
+        "Level": 362,
+        "XP": 7988700,
+        "Chest": 1,
+        "Dummy": 795070
+    },
+    {
+        "Level": 363,
+        "XP": 8026700,
+        "Chest": 1,
+        "Dummy": 798870
+    },
+    {
+        "Level": 364,
+        "XP": 8064700,
+        "Chest": 1,
+        "Dummy": 802670
+    },
+    {
+        "Level": 365,
+        "XP": 8102700,
+        "Chest": 3,
+        "Dummy": 806470
+    },
+    {
+        "Level": 366,
+        "XP": 8140700,
+        "Chest": 1,
+        "Dummy": 810270
+    },
+    {
+        "Level": 367,
+        "XP": 8178700,
+        "Chest": 1,
+        "Dummy": 814070
+    },
+    {
+        "Level": 368,
+        "XP": 8216700,
+        "Chest": 1,
+        "Dummy": 817870
+    },
+    {
+        "Level": 369,
+        "XP": 8254700,
+        "Chest": 1,
+        "Dummy": 821670
+    },
+    {
+        "Level": 370,
+        "XP": 8292700,
+        "Chest": 3,
+        "Dummy": 825470
+    },
+    {
+        "Level": 371,
+        "XP": 8330700,
+        "Chest": 1,
+        "Dummy": 829270
+    },
+    {
+        "Level": 372,
+        "XP": 8368700,
+        "Chest": 1,
+        "Dummy": 833070
+    },
+    {
+        "Level": 373,
+        "XP": 8406700,
+        "Chest": 1,
+        "Dummy": 836870
+    },
+    {
+        "Level": 374,
+        "XP": 8444700,
+        "Chest": 1,
+        "Dummy": 840670
+    },
+    {
+        "Level": 375,
+        "XP": 8482700,
+        "Chest": 3,
+        "Dummy": 844470
+    },
+    {
+        "Level": 376,
+        "XP": 8520700,
+        "Chest": 1,
+        "Dummy": 848270
+    },
+    {
+        "Level": 377,
+        "XP": 8558700,
+        "Chest": 1,
+        "Dummy": 852070
+    },
+    {
+        "Level": 378,
+        "XP": 8596700,
+        "Chest": 1,
+        "Dummy": 855870
+    },
+    {
+        "Level": 379,
+        "XP": 8634700,
+        "Chest": 1,
+        "Dummy": 859670
+    },
+    {
+        "Level": 380,
+        "XP": 8672700,
+        "Chest": 3,
+        "Dummy": 863470
+    },
+    {
+        "Level": 381,
+        "XP": 8710700,
+        "Chest": 1,
+        "Dummy": 867270
+    },
+    {
+        "Level": 382,
+        "XP": 8748700,
+        "Chest": 1,
+        "Dummy": 871070
+    },
+    {
+        "Level": 383,
+        "XP": 8786700,
+        "Chest": 1,
+        "Dummy": 874870
+    },
+    {
+        "Level": 384,
+        "XP": 8824700,
+        "Chest": 1,
+        "Dummy": 878670
+    },
+    {
+        "Level": 385,
+        "XP": 8862700,
+        "Chest": 3,
+        "Dummy": 882470
+    },
+    {
+        "Level": 386,
+        "XP": 8900700,
+        "Chest": 1,
+        "Dummy": 886270
+    },
+    {
+        "Level": 387,
+        "XP": 8938700,
+        "Chest": 1,
+        "Dummy": 890070
+    },
+    {
+        "Level": 388,
+        "XP": 8976700,
+        "Chest": 1,
+        "Dummy": 893870
+    },
+    {
+        "Level": 389,
+        "XP": 9014700,
+        "Chest": 1,
+        "Dummy": 897670
+    },
+    {
+        "Level": 390,
+        "XP": 9052700,
+        "Chest": 3,
+        "Dummy": 901470
+    },
+    {
+        "Level": 391,
+        "XP": 9090700,
+        "Chest": 1,
+        "Dummy": 905270
+    },
+    {
+        "Level": 392,
+        "XP": 9128700,
+        "Chest": 1,
+        "Dummy": 909070
+    },
+    {
+        "Level": 393,
+        "XP": 9166700,
+        "Chest": 1,
+        "Dummy": 912870
+    },
+    {
+        "Level": 394,
+        "XP": 9204700,
+        "Chest": 1,
+        "Dummy": 916670
+    },
+    {
+        "Level": 395,
+        "XP": 9242700,
+        "Chest": 3,
+        "Dummy": 920470
+    },
+    {
+        "Level": 396,
+        "XP": 9280700,
+        "Chest": 1,
+        "Dummy": 924270
+    },
+    {
+        "Level": 397,
+        "XP": 9318700,
+        "Chest": 1,
+        "Dummy": 928070
+    },
+    {
+        "Level": 398,
+        "XP": 9356700,
+        "Chest": 1,
+        "Dummy": 931870
+    },
+    {
+        "Level": 399,
+        "XP": 9394700,
+        "Chest": 1,
+        "Dummy": 935670
+    },
+    {
+        "Level": 400,
+        "XP": 9432700,
+        "Chest": 3,
+        "Dummy": 939470
+    }
+]

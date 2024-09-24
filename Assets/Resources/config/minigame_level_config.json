@@ -1,0 +1,1856 @@
+[
+  {
+    "Level": 1,
+    "ListPack": [
+      1
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 4,
+    "Amount": 4,
+    "Time": 90,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 50
+  },
+  {
+    "Level": 2,
+    "ListPack": [
+      1
+    ],
+    "Target": [
+      113,
+      3
+    ],
+    "ItemType": 5,
+    "Amount": 5,
+    "Time": 90,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 50
+  },
+  {
+    "Level": 3,
+    "ListPack": [
+      2
+    ],
+    "Target": [
+      126,
+      3,
+      206,
+      3
+    ],
+    "ItemType": 5,
+    "Amount": 16,
+    "Time": 90,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 50
+  },
+  {
+    "Level": 4,
+    "ListPack": [
+      3
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 5,
+    "Amount": 16,
+    "Time": 90,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 5,
+    "ListPack": [
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 5,
+    "Amount": 16,
+    "Time": 90,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 6,
+    "ListPack": [
+      5
+    ],
+    "Target": [
+      121,
+      3,
+      126,
+      3
+    ],
+    "ItemType": 7,
+    "Amount": 16,
+    "Time": 90,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 7,
+    "ListPack": [
+      4
+    ],
+    "Target": [
+      202,
+      4,
+      129,
+      4
+    ],
+    "ItemType": 5,
+    "Amount": 18,
+    "Time": 90,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 8,
+    "ListPack": [
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 5,
+    "Amount": 18,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 9,
+    "ListPack": [
+      4
+    ],
+    "Target": [
+      202,
+      2,
+      203,
+      2
+    ],
+    "ItemType": 4,
+    "Amount": 18,
+    "Time": 120,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 10,
+    "ListPack": [
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 5,
+    "Amount": 18,
+    "Time": 120,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 11,
+    "ListPack": [
+      3
+    ],
+    "Target": [
+      106,
+      2,
+      109,
+      2,
+      117,
+      2
+    ],
+    "ItemType": 3,
+    "Amount": 20,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 12,
+    "ListPack": [
+      3,
+      4
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 8,
+    "Amount": 22,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 13,
+    "ListPack": [
+      2,
+      4
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 8,
+    "Amount": 22,
+    "Time": 120,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 14,
+    "ListPack": [
+      3,
+      2
+    ],
+    "Target": [
+      124,
+      2,
+      106,
+      3,
+      117,
+      3
+    ],
+    "ItemType": 6,
+    "Amount": 22,
+    "Time": 120,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 15,
+    "ListPack": [
+      6,
+      7
+    ],
+    "Target": [
+      201,
+      3,
+      202,
+      2,
+      100,
+      2
+    ],
+    "ItemType": 6,
+    "Amount": 22,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 16,
+    "ListPack": [
+      6,
+      7
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 23,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 17,
+    "ListPack": [
+      4,
+      5
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 23,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 18,
+    "ListPack": [
+      2,
+      5
+    ],
+    "Target": [
+      126,
+      2,
+      120,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 20,
+    "Time": 120,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 19,
+    "ListPack": [
+      2,
+      3
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 23,
+    "Time": 120,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 20,
+    "ListPack": [
+      3,
+      5
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 23,
+    "Time": 120,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 21,
+    "ListPack": [
+      6,
+      9
+    ],
+    "Target": [
+      121,
+      4,
+      111,
+      3,
+      106,
+      3
+    ],
+    "ItemType": 9,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 22,
+    "ListPack": [
+      6,
+      9
+    ],
+    "Target": [
+      102,
+      4,
+      110,
+      3,
+      119,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 23,
+    "ListPack": [
+      6,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 23,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 24,
+    "ListPack": [
+      8,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 25,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 25,
+    "ListPack": [
+      7,
+      8
+    ],
+    "Target": [
+      127,
+      4,
+      206,
+      3,
+      109,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 26,
+    "ListPack": [
+      7,
+      8
+    ],
+    "Target": [
+      100,
+      3,
+      107,
+      2,
+      206,
+      2
+    ],
+    "ItemType": 7,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 27,
+    "ListPack": [
+      7,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 25,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 28,
+    "ListPack": [
+      7,
+      9
+    ],
+    "Target": [
+      101,
+      2,
+      121,
+      3,
+      119,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 22,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 29,
+    "ListPack": [
+      6,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 26,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 30,
+    "ListPack": [
+      8,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 26,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 31,
+    "ListPack": [
+      7,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 26,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 32,
+    "ListPack": [
+      8,
+      9
+    ],
+    "Target": [
+      100,
+      3,
+      114,
+      3,
+      120,
+      2
+    ],
+    "ItemType": 7,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 33,
+    "ListPack": [
+      8,
+      9
+    ],
+    "Target": [
+      101,
+      2,
+      123,
+      4,
+      114,
+      3
+    ],
+    "ItemType": 9,
+    "Amount": 21,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 34,
+    "ListPack": [
+      8,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 27,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 35,
+    "ListPack": [
+      3,
+      9
+    ],
+    "Target": [
+      106,
+      3,
+      119,
+      2,
+      121,
+      2
+    ],
+    "ItemType": 8,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 36,
+    "ListPack": [
+      3,
+      9
+    ],
+    "Target": [
+      102,
+      3,
+      111,
+      2,
+      126,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 20,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 37,
+    "ListPack": [
+      3,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 27,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 38,
+    "ListPack": [
+      3,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 28,
+    "Time": 150,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 39,
+    "ListPack": [
+      5,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 28,
+    "Time": 150,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 40,
+    "ListPack": [
+      4,
+      7
+    ],
+    "Target": [
+      115,
+      2,
+      127,
+      3,
+      118,
+      2
+    ],
+    "ItemType": 6,
+    "Amount": 21,
+    "Time": 160,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 41,
+    "ListPack": [
+      4,
+      7
+    ],
+    "Target": [
+      100,
+      3,
+      126,
+      2,
+      101,
+      2
+    ],
+    "ItemType": 6,
+    "Amount": 23,
+    "Time": 160,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 42,
+    "ListPack": [
+      5,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 30,
+    "Time": 160,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 43,
+    "ListPack": [
+      3,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 30,
+    "Time": 160,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 44,
+    "ListPack": [
+      2,
+      10
+    ],
+    "Target": [
+      122,
+      3,
+      129,
+      3
+    ],
+    "ItemType": 9,
+    "Amount": 24,
+    "Time": 160,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 45,
+    "ListPack": [
+      6,
+      10
+    ],
+    "Target": [
+      128,
+      2,
+      116,
+      2,
+      113,
+      2
+    ],
+    "ItemType": 8,
+    "Amount": 25,
+    "Time": 160,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 46,
+    "ListPack": [
+      6,
+      4
+    ],
+    "Target": [
+      126,
+      2,
+      104,
+      2,
+      100,
+      2
+    ],
+    "ItemType": 6,
+    "Amount": 24,
+    "Time": 160,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 47,
+    "ListPack": [
+      4,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 9,
+    "Amount": 30,
+    "Time": 160,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 48,
+    "ListPack": [
+      2,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 30,
+    "Time": 160,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 49,
+    "ListPack": [
+      2,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 30,
+    "Time": 160,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 50,
+    "ListPack": [
+      3,
+      7
+    ],
+    "Target": [
+      122,
+      3,
+      204,
+      3,
+      106,
+      2
+    ],
+    "ItemType": 7,
+    "Amount": 25,
+    "Time": 180,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 51,
+    "ListPack": [
+      5,
+      6
+    ],
+    "Target": [
+      200,
+      3,
+      115,
+      2,
+      129,
+      2
+    ],
+    "ItemType": 8,
+    "Amount": 25,
+    "Time": 180,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 52,
+    "ListPack": [
+      4,
+      7
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 8,
+    "Amount": 32,
+    "Time": 180,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 53,
+    "ListPack": [
+      3,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 32,
+    "Time": 180,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 54,
+    "ListPack": [
+      2,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 32,
+    "Time": 180,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 55,
+    "ListPack": [
+      2,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 32,
+    "Time": 180,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 56,
+    "ListPack": [
+      3,
+      7
+    ],
+    "Target": [
+      201,
+      2,
+      127,
+      4,
+      106,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 25,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 57,
+    "ListPack": [
+      4,
+      8
+    ],
+    "Target": [
+      100,
+      3,
+      118,
+      2,
+      206,
+      4
+    ],
+    "ItemType": 6,
+    "Amount": 25,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 58,
+    "ListPack": [
+      5,
+      9
+    ],
+    "Target": [
+      101,
+      4,
+      204,
+      3,
+      129,
+      2
+    ],
+    "ItemType": 8,
+    "Amount": 25,
+    "Time": 210,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 59,
+    "ListPack": [
+      2,
+      7
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 34,
+    "Time": 210,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 60,
+    "ListPack": [
+      3,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 34,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 61,
+    "ListPack": [
+      4,
+      9
+    ],
+    "Target": [
+      110,
+      3,
+      100,
+      3,
+      129,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 26,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 62,
+    "ListPack": [
+      5,
+      6
+    ],
+    "Target": [
+      115,
+      3,
+      121,
+      3,
+      123,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 26,
+    "Time": 210,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 63,
+    "ListPack": [
+      2,
+      8
+    ],
+    "Target": [
+      103,
+      2,
+      203,
+      4,
+      200,
+      2
+    ],
+    "ItemType": 8,
+    "Amount": 26,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 64,
+    "ListPack": [
+      3,
+      9
+    ],
+    "Target": [
+      102,
+      3,
+      108,
+      3,
+      121,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 26,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 65,
+    "ListPack": [
+      4,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 9,
+    "Amount": 36,
+    "Time": 210,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 66,
+    "ListPack": [
+      5,
+      7
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 36,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 67,
+    "ListPack": [
+      2,
+      9
+    ],
+    "Target": [
+      108,
+      4,
+      120,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 30,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 68,
+    "ListPack": [
+      3,
+      6
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 10,
+    "Amount": 36,
+    "Time": 210,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 69,
+    "ListPack": [
+      4,
+      7
+    ],
+    "Target": [
+      102,
+      3,
+      202,
+      3
+    ],
+    "ItemType": 8,
+    "Amount": 30,
+    "Time": 210,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 70,
+    "ListPack": [
+      5,
+      8
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 11,
+    "Amount": 36,
+    "Time": 240,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 71,
+    "ListPack": [
+      2,
+      3,
+      4
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 12,
+    "Amount": 36,
+    "Time": 240,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 72,
+    "ListPack": [
+      6,
+      7,
+      8
+    ],
+    "Target": [
+      101,
+      3,
+      116,
+      2,
+      200,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 29,
+    "Time": 240,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 73,
+    "ListPack": [
+      2,
+      5,
+      10
+    ],
+    "Target": [
+      121,
+      2,
+      111,
+      3,
+      202,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 29,
+    "Time": 240,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 74,
+    "ListPack": [
+      8,
+      9,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 12,
+    "Amount": 36,
+    "Time": 240,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 75,
+    "ListPack": [
+      3,
+      4,
+      5
+    ],
+    "Target": [
+      122,
+      2,
+      203,
+      4,
+      101,
+      1
+    ],
+    "ItemType": 9,
+    "Amount": 29,
+    "Time": 240,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 76,
+    "ListPack": [
+      6,
+      7,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 12,
+    "Amount": 38,
+    "Time": 240,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 77,
+    "ListPack": [
+      2,
+      3,
+      10
+    ],
+    "Target": [
+      111,
+      2,
+      205,
+      3,
+      113,
+      3
+    ],
+    "ItemType": 9,
+    "Amount": 31,
+    "Time": 240,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 78,
+    "ListPack": [
+      7,
+      8,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 12,
+    "Amount": 38,
+    "Time": 240,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 79,
+    "ListPack": [
+      4,
+      5,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 12,
+    "Amount": 38,
+    "Time": 240,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 80,
+    "ListPack": [
+      6,
+      9,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 13,
+    "Amount": 38,
+    "Time": 240,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 81,
+    "ListPack": [
+      2,
+      3,
+      5
+    ],
+    "Target": [
+      110,
+      2,
+      109,
+      2,
+      201,
+      3
+    ],
+    "ItemType": 10,
+    "Amount": 33,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 82,
+    "ListPack": [
+      7,
+      8,
+      10
+    ],
+    "Target": [
+      124,
+      3,
+      118,
+      2,
+      111,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 33,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 83,
+    "ListPack": [
+      2,
+      4,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 12,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 84,
+    "ListPack": [
+      6,
+      8,
+      9
+    ],
+    "Target": [
+      116,
+      3,
+      203,
+      2,
+      113,
+      2
+    ],
+    "ItemType": 10,
+    "Amount": 33,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 85,
+    "ListPack": [
+      3,
+      5,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 13,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 86,
+    "ListPack": [
+      7,
+      9,
+      10
+    ],
+    "Target": [
+      201,
+      3,
+      101,
+      2,
+      203,
+      2
+    ],
+    "ItemType": 10,
+    "Amount": 33,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 87,
+    "ListPack": [
+      2,
+      4,
+      5
+    ],
+    "Target": [
+      203,
+      3,
+      118,
+      2,
+      200,
+      2
+    ],
+    "ItemType": 10,
+    "Amount": 33,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 88,
+    "ListPack": [
+      6,
+      8,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 13,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 89,
+    "ListPack": [
+      3,
+      4,
+      10
+    ],
+    "Target": [
+      102,
+      2,
+      100,
+      3,
+      202,
+      2
+    ],
+    "ItemType": 9,
+    "Amount": 33,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 90,
+    "ListPack": [
+      6,
+      7,
+      9
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 13,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 91,
+    "ListPack": [
+      2,
+      3,
+      4,
+      10
+    ],
+    "Target": [
+      109,
+      2,
+      100,
+      2,
+      103,
+      2
+    ],
+    "ItemType": 18,
+    "Amount": 36,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 92,
+    "ListPack": [
+      6,
+      7,
+      8,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 21,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 93,
+    "ListPack": [
+      2,
+      3,
+      5,
+      10
+    ],
+    "Target": [
+      123,
+      2,
+      114,
+      2,
+      125,
+      2
+    ],
+    "ItemType": 18,
+    "Amount": 36,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 94,
+    "ListPack": [
+      6,
+      7,
+      9,
+      10
+    ],
+    "Target": [
+      111,
+      2,
+      100,
+      2,
+      114,
+      2
+    ],
+    "ItemType": 18,
+    "Amount": 36,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 95,
+    "ListPack": [
+      2,
+      4,
+      5,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 21,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 96,
+    "ListPack": [
+      6,
+      8,
+      9,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 21,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 97,
+    "ListPack": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 25,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 98,
+    "ListPack": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "Target": [
+      129,
+      2,
+      106,
+      2,
+      200,
+      2
+    ],
+    "ItemType": 18,
+    "Amount": 36,
+    "Time": 300,
+    "Mode": 3,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 99,
+    "ListPack": [
+      3,
+      4,
+      5,
+      10
+    ],
+    "Target": [
+      203,
+      2,
+      114,
+      2,
+      202,
+      2
+    ],
+    "ItemType": 18,
+    "Amount": 36,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  },
+  {
+    "Level": 100,
+    "ListPack": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "Target": [
+      0
+    ],
+    "ItemType": 22,
+    "Amount": 40,
+    "Time": 300,
+    "Mode": 2,
+    "Direction": 0,
+    "Reward": 80
+  }
+]

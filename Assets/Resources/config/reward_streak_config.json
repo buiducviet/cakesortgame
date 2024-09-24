@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "Item": "gold",
+        "ItemID": 0,
+        "Qty": 60,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 2,
+        "Item": "randombooster",
+        "ItemID": 6,
+        "Qty": 1,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 3,
+        "Item": "chest",
+        "ItemID": 5,
+        "Qty": 2,
+        "Factor": 0,
+        "Active": 1
+    }
+]

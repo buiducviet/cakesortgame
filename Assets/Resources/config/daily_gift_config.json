@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "Item": "gold",
+        "ItemID": 0,
+        "Qty": 60,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 2,
+        "Item": "hand",
+        "ItemID": 2,
+        "Qty": 1,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 3,
+        "Item": "shuffle",
+        "ItemID": 3,
+        "Qty": 1,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 4,
+        "Item": "hammer",
+        "ItemID": 4,
+        "Qty": 1,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 5,
+        "Item": "chest",
+        "ItemID": 5,
+        "Qty": 1,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 6,
+        "Item": "chest",
+        "ItemID": 5,
+        "Qty": 2,
+        "Factor": 0,
+        "Active": 1
+    },
+    {
+        "ID": 7,
+        "Item": "chest",
+        "ItemID": 5,
+        "Qty": 3,
+        "Factor": 0,
+        "Active": 1
+    }
+]

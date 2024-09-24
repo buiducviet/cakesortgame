@@ -1,0 +1,530 @@
+[
+  {
+    "Level": 1,
+    "Heart": 5,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 80
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 2,
+    "Heart": 10,
+    "NormalPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 130
+      }
+    ]
+  },
+  {
+    "Level": 3,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 80
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 4,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 5,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 80
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 6,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 200
+      }
+    ]
+  },
+  {
+    "Level": 7,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 2
+      }
+    ]
+  },
+  {
+    "Level": 8,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 9,
+    "Heart": 15,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 200
+      }
+    ]
+  },
+  {
+    "Level": 10,
+    "Heart": 20,
+    "NormalPrize": [
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 200
+      },
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 11,
+    "Heart": 20,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      },
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 12,
+    "Heart": 20,
+    "NormalPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 2
+      },
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 13,
+    "Heart": 20,
+    "NormalPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 130
+      },
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 14,
+    "Heart": 25,
+    "NormalPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      },
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 15,
+    "Heart": 25,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      },
+      {
+        "ItemID": 5,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 16,
+    "Heart": 25,
+    "NormalPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      },
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 17,
+    "Heart": 25,
+    "NormalPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 18,
+    "Heart": 30,
+    "NormalPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      },
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 19,
+    "Heart": 30,
+    "NormalPrize": [
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      },
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 20,
+    "Heart": 30,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 200
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 7,
+        "Qty": 405
+      }
+    ]
+  },
+  {
+    "Level": 21,
+    "Heart": 30,
+    "NormalPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 230
+      }
+    ]
+  },
+  {
+    "Level": 22,
+    "Heart": 30,
+    "NormalPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 23,
+    "Heart": 30,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 2
+      }
+    ]
+  },
+  {
+    "Level": 24,
+    "Heart": 35,
+    "NormalPrize": [
+      {
+        "ItemID": 4,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      },
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 25,
+    "Heart": 35,
+    "NormalPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 80
+      },
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 26,
+    "Heart": 35,
+    "NormalPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 100
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 130
+      }
+    ]
+  },
+  {
+    "Level": 27,
+    "Heart": 35,
+    "NormalPrize": [
+      {
+        "ItemID": 2,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 3
+      }
+    ]
+  },
+  {
+    "Level": 28,
+    "Heart": 35,
+    "NormalPrize": [
+      {
+        "ItemID": 5,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "Level": 29,
+    "Heart": 40,
+    "NormalPrize": [
+      {
+        "ItemID": 3,
+        "Qty": 1
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 0,
+        "Qty": 230
+      }
+    ]
+  },
+  {
+    "Level": 30,
+    "Heart": 40,
+    "NormalPrize": [
+      {
+        "ItemID": 7,
+        "Qty": 404
+      }
+    ],
+    "PremiumPrize": [
+      {
+        "ItemID": 7,
+        "Qty": 406
+      },
+      {
+        "ItemID": 1,
+        "Qty": 1
+      }
+    ]
+  }
+]

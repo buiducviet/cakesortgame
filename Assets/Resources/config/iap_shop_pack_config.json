@@ -1,0 +1,117 @@
+[
+    {
+        "Name": "StarterPack",
+        "ListItem": [
+            {
+                "Name": "Gold",
+                "Item": "gold",
+                "ItemID": 0,
+                "Qty": 1000
+            },
+            {
+                "Name": "Hammer",
+                "Item": "hammer",
+                "ItemID": 2,
+                "Qty": 10
+            },
+            {
+                "Name": "Move",
+                "Item": "hand",
+                "ItemID": 3,
+                "Qty": 10
+            },
+            {
+                "Name": "Shuffle",
+                "Item": "shuffle",
+                "ItemID": 4,
+                "Qty": 10
+            }
+        ]
+    },
+    {
+        "Name": "BoosterPack",
+        "ListItem": [
+            {
+                "Name": "Hammer",
+                "Item": "hammer",
+                "ItemID": 2,
+                "Qty": 20
+            },
+            {
+                "Name": "Move",
+                "Item": "hand",
+                "ItemID": 3,
+                "Qty": 20
+            },
+            {
+                "Name": "Shuffle",
+                "Item": "shuffle",
+                "ItemID": 4,
+                "Qty": 20
+            }
+        ]
+    },
+    {
+        "Name": "SuperPack",
+        "ListItem": [
+            {
+                "Name": "Gold",
+                "Item": "gold",
+                "ItemID": 0,
+                "Qty": 5000
+            },
+            {
+                "Name": "Hammer",
+                "Item": "hammer",
+                "ItemID": 2,
+                "Qty": 40
+            },
+            {
+                "Name": "Move",
+                "Item": "hand",
+                "ItemID": 3,
+                "Qty": 40
+            },
+            {
+                "Name": "Shuffle",
+                "Item": "shuffle",
+                "ItemID": 4,
+                "Qty": 40
+            }
+        ]
+    },
+    {
+        "Name": "RemoveAds",
+        "ListItem": [
+        ]
+    },
+    {
+        "Name": "SpecialPack",
+        "ListItem": [
+            {
+                "Name": "Gold",
+                "Item": "gold",
+                "ItemID": 0,
+                "Qty": 2000
+            },
+            {
+                "Name": "Hammer",
+                "Item": "hammer",
+                "ItemID": 2,
+                "Qty": 10
+            },
+            {
+                "Name": "Move",
+                "Item": "hand",
+                "ItemID": 3,
+                "Qty": 10
+            },
+            {
+                "Name": "Shuffle",
+                "Item": "shuffle",
+                "ItemID": 4,
+                "Qty": 10
+            }
+        ]
+    }
+]

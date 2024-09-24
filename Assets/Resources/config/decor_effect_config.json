@@ -1,0 +1,50 @@
+[
+  {
+    "Code": 0,
+    "Name": "CakeEffect01",
+    "Shape": "",
+    "Texture": "",
+    "Color": "",
+    "Price": 250
+  },
+    {
+        "Code": 1,
+        "Name": "CakeEffect02",
+        "Shape": "",
+        "Texture": "",
+        "Color": "",
+        "Price": 250
+    },
+    {
+        "Code": 2,
+        "Name": "CakeEffect03",
+        "Shape": "",
+        "Texture": "",
+        "Color": "",
+        "Price": 250
+    },
+    {
+        "Code": 3,
+        "Name": "CakeEffect04",
+        "Shape": "",
+        "Texture": "",
+        "Color": "",
+        "Price": 250
+    },
+    {
+        "Code": 4,
+        "Name": "CakeEffect05",
+        "Shape": "",
+        "Texture": "",
+        "Color": "",
+        "Price": 250
+    },
+    {
+        "Code": 5,
+        "Name": "CakeEffect06",
+        "Shape": "",
+        "Texture": "",
+        "Color": "",
+        "Price": 250
+    }
+]

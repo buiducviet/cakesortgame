@@ -1,0 +1,155 @@
+[
+  {
+    "ID": 1,
+    "TypeDes": "Collect Cake",
+    "TypeID": 1,
+    "Target": 25,
+    "ItemID": 0,
+    "Qty": 10,
+    "Star": 2
+  },
+  {
+    "ID": 2,
+    "TypeDes": "Collect Cake",
+    "TypeID": 1,
+    "Target": 50,
+    "ItemID": 0,
+    "Qty": 10,
+    "Star": 2
+  },
+  {
+    "ID": 3,
+    "TypeDes": "Collect Cake",
+    "TypeID": 1,
+    "Target": 100,
+    "ItemID": 0,
+    "Qty": 20,
+    "Star": 3
+  },
+  {
+    "ID": 4,
+    "TypeDes": "Collect Cake",
+    "TypeID": 1,
+    "Target": 200,
+    "ItemID": 0,
+    "Qty": 40,
+    "Star": 5
+  },
+  {
+    "ID": 5,
+    "TypeDes": "Use tool",
+    "TypeID": 2,
+    "Target": 1,
+    "ItemID": 0,
+    "Qty": 80,
+    "Star": 2
+  },
+  {
+    "ID": 6,
+    "TypeDes": "Use tool",
+    "TypeID": 2,
+    "Target": 2,
+    "ItemID": 0,
+    "Qty": 100,
+    "Star": 3
+  },
+  {
+    "ID": 7,
+    "TypeDes": "Use tool",
+    "TypeID": 2,
+    "Target": 3,
+    "ItemID": 0,
+    "Qty": 150,
+    "Star": 3
+  },
+  {
+    "ID": 8,
+    "TypeDes": "Use Speedy",
+    "TypeID": 3,
+    "Target": 1,
+    "ItemID": 0,
+    "Qty": 50,
+    "Star": 2
+  },
+  {
+    "ID": 9,
+    "TypeDes": "Play Minigame",
+    "TypeID": 4,
+    "Target": 1,
+    "ItemID": 0,
+    "Qty": 30,
+    "Star": 3
+  },
+  {
+    "ID": 10,
+    "TypeDes": "Play Minigame",
+    "TypeID": 4,
+    "Target": 4,
+    "ItemID": 0,
+    "Qty": 60,
+    "Star": 5
+  },
+  {
+    "ID": 11,
+    "TypeDes": "Play Bonus",
+    "TypeID": 5,
+    "Target": 1,
+    "ItemID": 0,
+    "Qty": 30,
+    "Star": 3
+  },
+  {
+    "ID": 12,
+    "TypeDes": "Play Bonus",
+    "TypeID": 5,
+    "Target": 4,
+    "ItemID": 0,
+    "Qty": 60,
+    "Star": 5
+  },
+  {
+    "ID": 13,
+    "TypeDes": "Spin FW",
+    "TypeID": 6,
+    "Target": 2,
+    "ItemID": 0,
+    "Qty": 50,
+    "Star": 2
+  },
+  {
+    "ID": 14,
+    "TypeDes": "Collect Star",
+    "TypeID": 0,
+    "Target": 20,
+    "ItemID": 5,
+    "Qty": 1,
+    "Star": 0
+  },
+  {
+    "ID": 15,
+    "TypeDes": "Collect Star",
+    "TypeID": 0,
+    "Target": 40,
+    "ItemID": 5,
+    "Qty": 3,
+    "Star": 0
+  },
+  {
+    "ID": 19,
+    "TypeDes": "Play Anniversary",
+    "TypeID": 9,
+    "Target": 1,
+    "ItemID": 0,
+    "Qty": 30,
+    "Star": 2
+  },
+  {
+    "ID": 20,
+    "TypeDes": "Play Anniversary",
+    "TypeID": 9,
+    "Target": 3,
+    "ItemID": 0,
+    "Qty": 100,
+    "Star": 3
+  }
+]

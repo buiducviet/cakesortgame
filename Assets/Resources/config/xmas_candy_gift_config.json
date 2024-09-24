@@ -1,0 +1,278 @@
+[
+	[
+		{
+			"ID": 1,
+			"Item": "hammer",
+			"ItemID": 2,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "shuffle",
+			"ItemID": 4,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "tong",
+			"ItemID": 3,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 100,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "chest level 2",
+			"ItemID": 6,
+			"Qty": 1,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 100,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "hammer",
+			"ItemID": 2,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 100,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "shuffle",
+			"ItemID": 4,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 100,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "tong",
+			"ItemID": 3,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 150,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "chest level 2",
+			"ItemID": 6,
+			"Qty": 1,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 500,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "Cake",
+			"ItemID": 304,
+			"Qty": 1,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 500,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 300,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "hammer",
+			"ItemID": 2,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 300,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "shuffle",
+			"ItemID": 4,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+    [
+        {
+            "ID": 1,
+            "Item": "coin",
+            "ItemID": 0,
+            "Qty": 300,
+            "Factor": 0,
+            "Active": 1
+        },
+        {
+            "ID": 1,
+            "Item": "tong",
+            "ItemID": 3,
+            "Qty": 2,
+            "Factor": 0,
+            "Active": 1
+        }
+    ],
+    [
+        {
+            "ID": 1,
+            "Item": "hammer",
+            "ItemID": 2,
+            "Qty": 4,
+            "Factor": 0,
+            "Active": 1
+        }
+    ],
+    [
+        {
+            "ID": 1,
+            "Item": "shuffle",
+            "ItemID": 4,
+            "Qty": 4,
+            "Factor": 0,
+            "Active": 1
+        }
+    ],
+    [
+        {
+            "ID": 1,
+            "Item": "tong",
+            "ItemID": 3,
+            "Qty": 4,
+            "Factor": 0
+        }
+    ],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 600,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "chest level 2",
+			"ItemID": 6,
+			"Qty": 1,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 600,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "chest level 2",
+			"ItemID": 6,
+			"Qty": 2,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 1000,
+			"Factor": 0
+		}
+	],
+	[
+		{
+			"ID": 1,
+			"Item": "coin",
+			"ItemID": 0,
+			"Qty": 1000,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "Cake",
+			"ItemID":305,
+			"Qty": 1,
+			"Factor": 0
+		},
+		{
+			"ID": 1,
+			"Item": "Cake",
+			"ItemID":306,
+			"Qty": 1,
+			"Factor": 0
+		}
+	]
+	
+]

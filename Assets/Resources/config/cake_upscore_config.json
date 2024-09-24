@@ -1,0 +1,242 @@
+[
+    {
+      "ID": 0,
+      "scoreUnlock": 0,
+      "coinReward": 0,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 1,
+      "scoreUnlock": 0,
+      "coinReward": 0,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 2,
+      "scoreUnlock": 0,
+      "coinReward": 0,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 3,
+      "scoreUnlock": 150,
+      "coinReward": 30,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 4,
+      "scoreUnlock": 250,
+      "coinReward": 40,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 5,
+      "scoreUnlock": 300,
+      "coinReward": 50,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 6,
+      "scoreUnlock": 400,
+      "coinReward": 50,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 7,
+      "scoreUnlock": 900,
+      "coinReward": 50,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 8,
+      "scoreUnlock": 1000,
+      "coinReward": 60,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 9,
+      "scoreUnlock": 1200,
+      "coinReward": 60,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 10,
+      "scoreUnlock": 1300,
+      "coinReward": 60,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 11,
+      "scoreUnlock": 1500,
+      "coinReward": 80,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 12,
+      "scoreUnlock": 1500,
+      "coinReward": 80,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 13,
+      "scoreUnlock": 2000,
+      "coinReward": 100,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 14,
+      "scoreUnlock": 2500,
+      "coinReward": 100,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 15,
+      "scoreUnlock": 3000,
+      "coinReward": 150,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 16,
+      "scoreUnlock": 4000,
+      "coinReward": 150,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 17,
+      "scoreUnlock": 5000,
+      "coinReward": 150,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 18,
+      "scoreUnlock": 5000,
+      "coinReward": 200,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 19,
+      "scoreUnlock": 6000,
+      "coinReward": 200,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 20,
+      "scoreUnlock": 9000,
+      "coinReward": 200,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 21,
+      "scoreUnlock": 15000,
+      "coinReward": 500,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 22,
+      "scoreUnlock": 20000,
+      "coinReward": 500,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 23,
+      "scoreUnlock": 25000,
+      "coinReward": 500,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 24,
+      "scoreUnlock": 25000,
+      "coinReward": 500,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 25,
+      "scoreUnlock": 25000,
+      "coinReward": 800,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 26,
+      "scoreUnlock": 30000,
+      "coinReward": 800,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 27,
+      "scoreUnlock": 30000,
+      "coinReward": 800,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 28,
+      "scoreUnlock": 30000,
+      "coinReward": 1000,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 29,
+      "scoreUnlock": 40000,
+      "coinReward": 1000,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 30,
+      "scoreUnlock": 50000,
+      "coinReward": 1200,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 31,
+      "scoreUnlock": 50000,
+      "coinReward": 1200,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 32,
+      "scoreUnlock": 50000,
+      "coinReward": 1200,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 33,
+      "scoreUnlock": 60000,
+      "coinReward": 1400,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 34,
+      "scoreUnlock": 60000,
+      "coinReward": 1400,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 35,
+      "scoreUnlock": 75000,
+      "coinReward": 1400,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 36,
+      "scoreUnlock": 75000,
+      "coinReward": 1600,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 37,
+      "scoreUnlock": 85000,
+      "coinReward": 1600,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 38,
+      "scoreUnlock": 85000,
+      "coinReward": 1600,
+      "scoreClaim": 20
+    },
+    {
+      "ID": 39,
+      "scoreUnlock": 90000,
+      "coinReward": 1600,
+      "scoreClaim": 20
+    }
+  ]

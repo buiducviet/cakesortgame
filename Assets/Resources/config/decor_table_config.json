@@ -1,0 +1,82 @@
+[
+    {
+        "Code": 0,
+        "Name": "Table 01",
+        "Shape": 0,
+        "Texture": "table_texture_01",
+        "Color": "hole_0",
+        "Price": 0
+    },
+    {
+        "Code": 1,
+        "Name": "Table 02",
+        "Shape": 0,
+        "Texture": "table_texture_02",
+        "Color": "hole_0",
+        "Price": 250
+    },
+    {
+        "Code": 2,
+        "Name": "Table 03",
+        "Shape": 0,
+        "Texture": "table_texture_03",
+        "Color": "hole_0",
+        "Price": 250
+    },
+    {
+        "Code": 3,
+        "Name": "Table 04",
+        "Shape": 0,
+        "Texture": "table_texture_04",
+        "Color": "hole_0",
+        "Price": 0
+    },
+    {
+        "Code": 4,
+        "Name": "Table 05",
+        "Shape": 0,
+        "Texture": "table_texture_05",
+        "Color": "hole_5",
+        "Price": 250
+    },
+    {
+        "Code": 5,
+        "Name": "Table 06",
+        "Shape": 0,
+        "Texture": "table_texture_06",
+        "Color": "hole_0",
+        "Price": 250
+    },
+    {
+        "Code": 6,
+        "Name": "Table 07",
+        "Shape": 0,
+        "Texture": "table_texture_07",
+        "Color": "hole_7",
+        "Price": 250
+    },
+    {
+        "Code": 7,
+        "Name": "Table 08",
+        "Shape": 0,
+        "Texture": "table_texture_08",
+        "Color": "hole_0",
+        "Price": 250
+    },
+    {
+        "Code": 8,
+        "Name": "Table 09",
+        "Shape": 0,
+        "Texture": "table_texture_09",
+        "Color": "hole_0",
+        "Price": 250
+    },
+    {
+        "Code": 9,
+        "Name": "Table 10",
+        "Shape": 0,
+        "Texture": "table_texture_10",
+        "Color": "hole_10",
+        "Price": 250
+    }
+]

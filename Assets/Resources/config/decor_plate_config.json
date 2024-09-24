@@ -1,0 +1,66 @@
+[
+    {
+        "Code": 0,
+        "Name": "Dish 01",
+        "Shape": 0,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code": 1,
+        "Name": "Dish 11",
+        "Shape": 1,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code": 2,
+        "Name": "Dish 21",
+        "Shape": 2,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code": 3,
+        "Name": "Dish 31",
+        "Shape": 3,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code": 4,
+        "Name": "Dish 41",
+        "Shape": 4,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code": 5,
+        "Name": "Dish 51",
+        "Shape": 5,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code":6,
+        "Name": "Dish 61",
+        "Shape": 6,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    },
+    {
+        "Code": 7,
+        "Name": "Dish 71",
+        "Shape": 7,
+        "Texture": "",
+        "Color": "#ffffff",
+        "Price": 250
+    }
+]
